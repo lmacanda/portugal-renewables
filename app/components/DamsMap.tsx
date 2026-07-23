@@ -44,5 +44,5 @@ export default function DamsMap() {
     }); 
   }, []); 
 
-  return <div ref={mapContainer} style={{ width: "100vw", height: "100vh" }} />;
+  return <div ref={mapContainer} style={{ width: "100%", height: "100%" }} />;
 }
