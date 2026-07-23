@@ -97,9 +97,44 @@ how the mix breathes as the sun and wind change.
   folder *before* writing into it) are a common, easy-to-spot-once-shown
   class of bug.
 
+  ## Step 6 — Dams rendered on Mapbox ✅
+
+- Installed `mapbox-gl` + `@types/mapbox-gl`
+- Created `.env.local` with `NEXT_PUBLIC_MAPBOX_TOKEN` (same Mapbox
+  account as vinho-map)
+- Built `components/DamsMap.tsx`: initializes a Mapbox map centered on
+  Portugal, fetches `public/data/dams.geojson` on load, loops through
+  features and drops a `mapboxgl.Marker` + popup (name, basin,
+  municipality, district) for each dam
+- Typed the GeoJSON shape properly instead of using `any` — added
+  `export interface DamFeature` in `types.ts` (root level, sibling to
+  `app/`), imported into `DamsMap.tsx`
+
+### Bugs hit + fixed (real ones, worth remembering)
+
+- **`fs.writeFileSync` failing with ENOENT** — it won't create missing
+  folders. Fix: `fs.mkdirSync(path, { recursive: true })` *before*
+  writing (and in the right order — mkdir has to run first).
+- **Confusing the terminal with the code file** — JS/TS code
+  (`fs.writeFileSync(...)`) only means something inside a `.ts` file run
+  by Node; typing it directly into PowerShell just errors, since
+  PowerShell doesn't know JavaScript.
+- **"File is not a module"** — an `interface` with no `export` in front
+  of it is invisible to other files. Fix: `export interface DamFeature`.
+- **Mapbox token error despite `.env.local` "existing"** — the file was
+  actually named `env.local` (missing the leading dot), so Next.js
+  never found it. `.env.local` must start with a literal dot.
+- **Hydration warning about `cz-shortcut-listen`** — caused by a browser
+  extension injecting an attribute into `<body>` before React loads;
+  unrelated to the app itself. Silenced with `suppressHydrationWarning`
+  on the `<body>` tag in `layout.tsx`.
+
+**Result:** dam markers render correctly on the map, clickable, showing
+real name/basin/municipality/district per dam.
+
 ## Next steps (not done yet)
 
-- [ ] Load `public/data/dams.geojson` into a Mapbox map (reusing the
+- [X ] Load `public/data/dams.geojson` into a Mapbox map (reusing the
       Marker pattern from vinho-map)
 - [ ] Wire up REN's generation-mix endpoint alongside the map (chart or
       HUD panel)
