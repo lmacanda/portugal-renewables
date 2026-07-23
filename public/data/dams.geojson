@@ -1,0 +1,2921 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.495338717,
+          38.197294284
+        ]
+      },
+      "properties": {
+        "name": "Alqueva",
+        "basin": "GUADIANA",
+        "district": "BEJA",
+        "municipality": "MOURA",
+        "yearOperational": 2002,
+        "damType": "Abóboda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.84622942,
+          40.189794344
+        ]
+      },
+      "properties": {
+        "name": "Alto Ceira",
+        "basin": "MONDEGO",
+        "district": "COIMBRA",
+        "municipality": "PAMPILHOSA DA SERRA",
+        "yearOperational": 1949,
+        "damType": "Abóboda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.877669118,
+          41.802763462
+        ]
+      },
+      "properties": {
+        "name": "Alto Cávado",
+        "basin": "CÁVADO/RIBEIRAS COSTEIRAS",
+        "district": "VILA REAL",
+        "municipality": "MONTALEGRE",
+        "yearOperational": 1964,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.202710311,
+          41.872214166
+        ]
+      },
+      "properties": {
+        "name": "Alto Lindoso",
+        "basin": "LIMA",
+        "district": "VIANA DO CASTELO",
+        "municipality": "ARCOS DE VALDEVEZ",
+        "yearOperational": 1992,
+        "damType": "Arco Abóboda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.854005065,
+          41.737857863
+        ]
+      },
+      "properties": {
+        "name": "Alto Rabagão",
+        "basin": "CÁVADO/RIBEIRAS COSTEIRAS",
+        "district": "VILA REAL",
+        "municipality": "MONTALEGRE",
+        "yearOperational": 1964,
+        "damType": "Abóboda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.910600619,
+          38.278992023
+        ]
+      },
+      "properties": {
+        "name": "Alvito",
+        "basin": "SADO",
+        "district": "BEJA",
+        "municipality": "CUBA",
+        "yearOperational": 1977,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.19620656,
+          41.568912247
+        ]
+      },
+      "properties": {
+        "name": "Andorinhas",
+        "basin": "AVE/LEÇA",
+        "district": "BRAGA",
+        "municipality": "GUIMARÃES",
+        "yearOperational": 1945,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.383837725,
+          39.350177699
+        ]
+      },
+      "properties": {
+        "name": "Apartadura",
+        "basin": "TEJO",
+        "district": "PORTALEGRE",
+        "municipality": "MARVÃO",
+        "yearOperational": 1993,
+        "damType": "Enrocamento com cortina a montante"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.376264769,
+          37.239474177
+        ]
+      },
+      "properties": {
+        "name": "Arade",
+        "basin": "ARADE",
+        "district": "FARO",
+        "municipality": "SILVES",
+        "yearOperational": 1956,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.380285133,
+          41.782631052
+        ]
+      },
+      "properties": {
+        "name": "Arcossó",
+        "basin": "DOURO",
+        "district": "VILA REAL",
+        "municipality": "CHAVES",
+        "yearOperational": 1999,
+        "damType": "Enrocamento com cortina a montante"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.957439459,
+          41.096243264
+        ]
+      },
+      "properties": {
+        "name": "Arroio",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "FREIXO DE ESPADA À CINTA",
+        "yearOperational": 1992,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.888078303,
+          41.556640637
+        ]
+      },
+      "properties": {
+        "name": "Azibo",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "MACEDO DE CAVALEIROS",
+        "yearOperational": 1982,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.12129496,
+          39.096329614
+        ]
+      },
+      "properties": {
+        "name": "Abrilongo",
+        "basin": "GUADIANA",
+        "district": "PORTALEGRE",
+        "municipality": "CAMPO MAIOR",
+        "yearOperational": 2000,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.19670825,
+          40.340723246
+        ]
+      },
+      "properties": {
+        "name": "Aguieira",
+        "basin": "MONDEGO",
+        "district": "VISEU",
+        "municipality": "MORTÁGUA",
+        "yearOperational": 1981,
+        "damType": "Arcos Múltiplos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.493445622,
+          37.470242531
+        ]
+      },
+      "properties": {
+        "name": "Alcoutim",
+        "basin": "GUADIANA",
+        "district": "FARO",
+        "municipality": "ALCOUTIM",
+        "yearOperational": 1995,
+        "damType": "Enrocamento com núcleo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.49105849,
+          41.30846296
+        ]
+      },
+      "properties": {
+        "name": "Alijó (Vila Chã)",
+        "basin": "DOURO",
+        "district": "VILA REAL",
+        "municipality": "ALIJÓ",
+        "yearOperational": 1991,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.337523357,
+          40.540312036
+        ]
+      },
+      "properties": {
+        "name": "Açude Pateiro",
+        "basin": "MONDEGO",
+        "district": "GUARDA",
+        "municipality": "GUARDA",
+        "yearOperational": 1938,
+        "damType": "Alvenaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.07048314,
+          40.548784739
+        ]
+      },
+      "properties": {
+        "name": "Açude Pisões",
+        "basin": "MONDEGO",
+        "district": "VISEU",
+        "municipality": "TONDELA",
+        "yearOperational": 1927,
+        "damType": "Alvenaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.03407721,
+          40.256514718
+        ]
+      },
+      "properties": {
+        "name": "Açude Rei de Moinhos",
+        "basin": "MONDEGO",
+        "district": "COIMBRA",
+        "municipality": "TÁBUA",
+        "yearOperational": 1939,
+        "damType": "Alvenaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.688144505,
+          40.378818106
+        ]
+      },
+      "properties": {
+        "name": "Açude da Caniça",
+        "basin": "MONDEGO",
+        "district": "GUARDA",
+        "municipality": "SEIA",
+        "yearOperational": 1940,
+        "damType": "Alvenaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.629283897,
+          38.110252578
+        ]
+      },
+      "properties": {
+        "name": "Açude de Pedrogão",
+        "basin": "GUADIANA",
+        "district": "BEJA",
+        "municipality": "SERPA",
+        "yearOperational": 2005,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.708854098,
+          40.383155404
+        ]
+      },
+      "properties": {
+        "name": "Açude de Ponte Jugais",
+        "basin": "MONDEGO",
+        "district": "GUARDA",
+        "municipality": "SEIA",
+        "yearOperational": 1966,
+        "damType": "Alvenaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.70697213,
+          40.384670413
+        ]
+      },
+      "properties": {
+        "name": "Açude de Vila Cova",
+        "basin": "MONDEGO",
+        "district": "GUARDA",
+        "municipality": "SEIA",
+        "yearOperational": 1937,
+        "damType": "Alvenaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.694656318,
+          40.395196806
+        ]
+      },
+      "properties": {
+        "name": "Açude do Desterro",
+        "basin": "MONDEGO",
+        "district": "GUARDA",
+        "municipality": "SEIA",
+        "yearOperational": 1959,
+        "damType": "Alvenaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.440112291,
+          40.215739346
+        ]
+      },
+      "properties": {
+        "name": "Açude- Ponte de Coimbra",
+        "basin": "MONDEGO",
+        "district": "COIMBRA",
+        "municipality": "COIMBRA",
+        "yearOperational": 1981,
+        "damType": "Açude móvel (com comportas)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.659563028,
+          41.394562067
+        ]
+      },
+      "properties": {
+        "name": "Bastêlos",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "MOGADOURO",
+        "yearOperational": 1993,
+        "damType": "Enrocamento drenante"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.509227047,
+          37.27641351
+        ]
+      },
+      "properties": {
+        "name": "Beliche",
+        "basin": "GUADIANA",
+        "district": "FARO",
+        "municipality": "CASTRO MARIM",
+        "yearOperational": 1986,
+        "damType": "Enrocamento com núcleo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.998454273,
+          39.479669273
+        ]
+      },
+      "properties": {
+        "name": "Belver",
+        "basin": "TEJO",
+        "district": "PORTALEGRE",
+        "municipality": "GAVIÃO",
+        "yearOperational": 1952,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.469883732,
+          41.301186099
+        ]
+      },
+      "properties": {
+        "name": "Bemposta",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "MOGADOURO",
+        "yearOperational": 1964,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.219751662,
+          39.853658775
+        ]
+      },
+      "properties": {
+        "name": "Bouçã",
+        "basin": "TEJO",
+        "district": "LEIRIA",
+        "municipality": "PEDRÓGÃO GRANDE",
+        "yearOperational": 1955,
+        "damType": "Abóboda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.697778463,
+          37.201749494
+        ]
+      },
+      "properties": {
+        "name": "Bravura",
+        "basin": "RIBEIRAS DO ALGARVE",
+        "district": "FARO",
+        "municipality": "LAGOS",
+        "yearOperational": 1958,
+        "damType": "Arco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.998259509,
+          38.157005627
+        ]
+      },
+      "properties": {
+        "name": "Bufo",
+        "basin": "GUADIANA",
+        "district": "BEJA",
+        "municipality": "BARRANCOS",
+        "yearOperational": 1983,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.050043264,
+          41.391011314
+        ]
+      },
+      "properties": {
+        "name": "Burga",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "VILA FLOR",
+        "yearOperational": 1978,
+        "damType": "Terra homogénea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.444693398,
+          40.804999376
+        ]
+      },
+      "properties": {
+        "name": "Burgães",
+        "basin": "VOUGA/RIBEIRAS COSTEIRAS",
+        "district": "AVEIRO",
+        "municipality": "OLIVEIRA DE AZEMÉIS",
+        "yearOperational": 1940,
+        "damType": "Alvenaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.13282438,
+          39.917807098
+        ]
+      },
+      "properties": {
+        "name": "Cabril",
+        "basin": "TEJO",
+        "district": "LEIRIA",
+        "municipality": "PEDRÓGÃO GRANDE",
+        "yearOperational": 1954,
+        "damType": "Abóboda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.15949946,
+          41.39598664
+        ]
+      },
+      "properties": {
+        "name": "Cachão",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "MIRANDELA",
+        "yearOperational": 1972,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.149294509,
+          38.997759167
+        ]
+      },
+      "properties": {
+        "name": "Caia",
+        "basin": "GUADIANA",
+        "district": "PORTALEGRE",
+        "municipality": "ELVAS",
+        "yearOperational": 1967,
+        "damType": "Contrafortes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.330189497,
+          40.531724505
+        ]
+      },
+      "properties": {
+        "name": "Caldeirão",
+        "basin": "MONDEGO",
+        "district": "GUARDA",
+        "municipality": "GUARDA",
+        "yearOperational": 1993,
+        "damType": "Arco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.900919111,
+          41.445865205
+        ]
+      },
+      "properties": {
+        "name": "Camba",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "ALFÂNDEGA DA FÉ",
+        "yearOperational": 1993,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.61903302,
+          37.84145473
+        ]
+      },
+      "properties": {
+        "name": "Campilhas",
+        "basin": "SADO",
+        "district": "SETÚBAL",
+        "municipality": "SANTIAGO DO CACÉM",
+        "yearOperational": 1954,
+        "damType": "Terra zonada com cortina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.231342381,
+          41.652512365
+        ]
+      },
+      "properties": {
+        "name": "Caniçada",
+        "basin": "CÁVADO/RIBEIRAS COSTEIRAS",
+        "district": "BRAGA",
+        "municipality": "VIEIRA DO MINHO",
+        "yearOperational": 1955,
+        "damType": "Arco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.382878319,
+          40.214738144
+        ]
+      },
+      "properties": {
+        "name": "Capinha",
+        "basin": "TEJO",
+        "district": "CASTELO BRANCO",
+        "municipality": "FUNDÃO",
+        "yearOperational": 1981,
+        "damType": "Terra homogénea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.130973037,
+          41.085622402
+        ]
+      },
+      "properties": {
+        "name": "Carrapatelo",
+        "basin": "DOURO",
+        "district": "VISEU",
+        "municipality": "CINFÃES",
+        "yearOperational": 1972,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.981049527,
+          41.508477474
+        ]
+      },
+      "properties": {
+        "name": "Carvalheira",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "MACEDO DE CAVALEIROS",
+        "yearOperational": 1971,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.925213703,
+          41.190722347
+        ]
+      },
+      "properties": {
+        "name": "Carviçais(V.Ferreiros)",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "TORRE DE MONCORVO",
+        "yearOperational": 1984,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.318871258,
+          39.54304144
+        ]
+      },
+      "properties": {
+        "name": "Castelo de Bode",
+        "basin": "TEJO",
+        "district": "SANTARÉM",
+        "municipality": "TOMAR",
+        "yearOperational": 1951,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.229109571,
+          38.814960041
+        ]
+      },
+      "properties": {
+        "name": "Ciborro",
+        "basin": "TEJO",
+        "district": "ÉVORA",
+        "municipality": "MONTEMOR-O-NOVO",
+        "yearOperational": 1977,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.903912435,
+          39.81696364
+        ]
+      },
+      "properties": {
+        "name": "Corgas",
+        "basin": "TEJO",
+        "district": "CASTELO BRANCO",
+        "municipality": "OLEIROS",
+        "yearOperational": 1991,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.443461857,
+          37.582816081
+        ]
+      },
+      "properties": {
+        "name": "Corte Brique",
+        "basin": "MIRA",
+        "district": "BEJA",
+        "municipality": "ODEMIRA",
+        "yearOperational": 1993,
+        "damType": "Terra homogénea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.560942993,
+          40.30934953
+        ]
+      },
+      "properties": {
+        "name": "Cova do Viriato",
+        "basin": "TEJO",
+        "district": "CASTELO BRANCO",
+        "municipality": "COVILHÃ",
+        "yearOperational": 1982,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.706224726,
+          41.879413977
+        ]
+      },
+      "properties": {
+        "name": "Covas",
+        "basin": "MINHO/ÂNCORA",
+        "district": "VIANA DO CASTELO",
+        "municipality": "VILA NOVA DE CERVEIRA",
+        "yearOperational": 1976,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.600461428,
+          40.391442826
+        ]
+      },
+      "properties": {
+        "name": "Covão da Erva Fome",
+        "basin": "MONDEGO",
+        "district": "GUARDA",
+        "municipality": "SEIA",
+        "yearOperational": 1955,
+        "damType": "Arco Gravidade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.64319171,
+          40.371441289
+        ]
+      },
+      "properties": {
+        "name": "Covão do Curral",
+        "basin": "MONDEGO",
+        "district": "GUARDA",
+        "municipality": "SEIA",
+        "yearOperational": 1945,
+        "damType": "Alvenaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.595352253,
+          40.313656957
+        ]
+      },
+      "properties": {
+        "name": "Covão do Ferro",
+        "basin": "TEJO",
+        "district": "CASTELO BRANCO",
+        "municipality": "COVILHÃ",
+        "yearOperational": 1956,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.638315346,
+          40.368466768
+        ]
+      },
+      "properties": {
+        "name": "Covão do Forno",
+        "basin": "MONDEGO",
+        "district": "GUARDA",
+        "municipality": "SEIA",
+        "yearOperational": 1966,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.632954079,
+          40.333943765
+        ]
+      },
+      "properties": {
+        "name": "Covão do Meio",
+        "basin": "MONDEGO",
+        "district": "GUARDA",
+        "municipality": "SEIA",
+        "yearOperational": 1953,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.62306279,
+          40.370769016
+        ]
+      },
+      "properties": {
+        "name": "Covão do Vale do Conde",
+        "basin": "MONDEGO",
+        "district": "GUARDA",
+        "municipality": "SEIA",
+        "yearOperational": 1955,
+        "damType": "Alvenaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.610088743,
+          40.364533402
+        ]
+      },
+      "properties": {
+        "name": "Covão dos Conchos",
+        "basin": "MONDEGO",
+        "district": "GUARDA",
+        "municipality": "SEIA",
+        "yearOperational": 1955,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.696085932,
+          39.326403652
+        ]
+      },
+      "properties": {
+        "name": "Crato (Nascentes)",
+        "basin": "TEJO",
+        "district": "PORTALEGRE",
+        "municipality": "CRATO",
+        "yearOperational": 1965,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.486824008,
+          41.072885802
+        ]
+      },
+      "properties": {
+        "name": "Crestuma-Lever",
+        "basin": "DOURO",
+        "district": "PORTO",
+        "municipality": "GONDOMAR",
+        "yearOperational": 1985,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.324252836,
+          37.905711294
+        ]
+      },
+      "properties": {
+        "name": "Daroeira",
+        "basin": "SADO",
+        "district": "SETÚBAL",
+        "municipality": "SANTIAGO DO CACÉM",
+        "yearOperational": 1953,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.925834136,
+          38.700487512
+        ]
+      },
+      "properties": {
+        "name": "Divor",
+        "basin": "TEJO",
+        "district": "ÉVORA",
+        "municipality": "ARRAIOLOS",
+        "yearOperational": 1965,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.465215446,
+          37.993922415
+        ]
+      },
+      "properties": {
+        "name": "Enxoé",
+        "basin": "GUADIANA",
+        "district": "BEJA",
+        "municipality": "SERPA",
+        "yearOperational": 1998,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.285557888,
+          40.256915328
+        ]
+      },
+      "properties": {
+        "name": "Escarigo",
+        "basin": "TEJO",
+        "district": "CASTELO BRANCO",
+        "municipality": "FUNDÃO",
+        "yearOperational": 1992,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.955744911,
+          41.368494717
+        ]
+      },
+      "properties": {
+        "name": "Esteveinha (Alfândega da Fé)",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "ALFÂNDEGA DA FÉ",
+        "yearOperational": 1970,
+        "damType": "Terra homogénea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.793359034,
+          40.634149485
+        ]
+      },
+      "properties": {
+        "name": "Fagilde",
+        "basin": "MONDEGO",
+        "district": "VISEU",
+        "municipality": "VISEU",
+        "yearOperational": 1984,
+        "damType": "Arco Abóboda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.280573799,
+          41.229321385
+        ]
+      },
+      "properties": {
+        "name": "Fonte Longa",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "CARRAZEDA DE ANSIÃES",
+        "yearOperational": 1988,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.49731879,
+          37.881481654
+        ]
+      },
+      "properties": {
+        "name": "Fonte Serne",
+        "basin": "SADO",
+        "district": "SETÚBAL",
+        "municipality": "SANTIAGO DO CACÉM",
+        "yearOperational": 1979,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.802673439,
+          39.543434238
+        ]
+      },
+      "properties": {
+        "name": "Fratel",
+        "basin": "TEJO",
+        "district": "PORTALEGRE",
+        "municipality": "NISA",
+        "yearOperational": 1973,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.018500181,
+          41.070474655
+        ]
+      },
+      "properties": {
+        "name": "Freigil",
+        "basin": "DOURO",
+        "district": "VISEU",
+        "municipality": "RESENDE",
+        "yearOperational": 1955,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.304224684,
+          38.76194308
+        ]
+      },
+      "properties": {
+        "name": "Freixeirinha",
+        "basin": "TEJO",
+        "district": "ÉVORA",
+        "municipality": "MONTEMOR-O-NOVO",
+        "yearOperational": 1995,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.163770405,
+          40.24626789
+        ]
+      },
+      "properties": {
+        "name": "Fronhas",
+        "basin": "MONDEGO",
+        "district": "COIMBRA",
+        "municipality": "ARGANIL",
+        "yearOperational": 1985,
+        "damType": "Arco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.382584991,
+          37.262716612
+        ]
+      },
+      "properties": {
+        "name": "Funcho",
+        "basin": "ARADE",
+        "district": "FARO",
+        "municipality": "SILVES",
+        "yearOperational": 1993,
+        "damType": "Abóboda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.20873318,
+          38.968801342
+        ]
+      },
+      "properties": {
+        "name": "Furadouro",
+        "basin": "TEJO",
+        "district": "ÉVORA",
+        "municipality": "MORA",
+        "yearOperational": 1959,
+        "damType": "Terra homogénea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.649879056,
+          39.389387446
+        ]
+      },
+      "properties": {
+        "name": "Gafete",
+        "basin": "TEJO",
+        "district": "PORTALEGRE",
+        "municipality": "CRATO",
+        "yearOperational": 1980,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.109748029,
+          38.954510744
+        ]
+      },
+      "properties": {
+        "name": "Gameiro",
+        "basin": "TEJO",
+        "district": "ÉVORA",
+        "municipality": "MORA",
+        "yearOperational": 1960,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.339503043,
+          41.430455491
+        ]
+      },
+      "properties": {
+        "name": "Giestal",
+        "basin": "AVE/LEÇA",
+        "district": "BRAGA",
+        "municipality": "GUIMARÃES",
+        "yearOperational": 1941,
+        "damType": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.819220799,
+          41.786176016
+        ]
+      },
+      "properties": {
+        "name": "Gostei",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "BRAGANÇA",
+        "yearOperational": 1993,
+        "damType": "Terra homogénea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.776917729,
+          41.955874676
+        ]
+      },
+      "properties": {
+        "name": "Gralhas",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "BRAGANÇA",
+        "yearOperational": 1995,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.948143791,
+          37.879541715
+        ]
+      },
+      "properties": {
+        "name": "Grous",
+        "basin": "GUADIANA",
+        "district": "BEJA",
+        "municipality": "BEJA",
+        "yearOperational": 1965,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.137664886,
+          41.585559428
+        ]
+      },
+      "properties": {
+        "name": "Guilhofrei",
+        "basin": "AVE",
+        "district": "BRAGA",
+        "municipality": "VIEIRA DO MINHO",
+        "yearOperational": 1938,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4519736,
+          37.90783662
+        ]
+      },
+      "properties": {
+        "name": "H. Facho I",
+        "basin": "GUADIANA",
+        "district": "BEJA",
+        "municipality": "SERPA",
+        "yearOperational": 1954,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.440073177,
+          37.901262584
+        ]
+      },
+      "properties": {
+        "name": "H. Facho II",
+        "basin": "GUADIANA",
+        "district": "BEJA",
+        "municipality": "SERPA",
+        "yearOperational": 1955,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.201403355,
+          39.94508524
+        ]
+      },
+      "properties": {
+        "name": "Idanha",
+        "basin": "TEJO",
+        "district": "CASTELO BRANCO",
+        "municipality": "IDANHA-A-NOVA",
+        "yearOperational": 1947,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.787597412,
+          40.085373941
+        ]
+      },
+      "properties": {
+        "name": "Janeiro de Cima",
+        "basin": "TEJO",
+        "district": "CASTELO BRANCO",
+        "municipality": "FUNDÃO",
+        "yearOperational": 1995,
+        "damType": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.649249984,
+          40.363965223
+        ]
+      },
+      "properties": {
+        "name": "Lagoa Comprida",
+        "basin": "MONDEGO",
+        "district": "GUARDA",
+        "municipality": "SEIA",
+        "yearOperational": 1966,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.620285521,
+          40.386129014
+        ]
+      },
+      "properties": {
+        "name": "Lagoacho",
+        "basin": "MONDEGO",
+        "district": "GUARDA",
+        "municipality": "SEIA",
+        "yearOperational": 1993,
+        "damType": "Enrocamento com cortina a montante"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.406016611,
+          38.635780658
+        ]
+      },
+      "properties": {
+        "name": "Lucefecit",
+        "basin": "GUADIANA",
+        "district": "ÉVORA",
+        "municipality": "ALANDROAL",
+        "yearOperational": 1982,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.690546049,
+          38.994884332
+        ]
+      },
+      "properties": {
+        "name": "Magos (Paúl Magos)",
+        "basin": "TEJO",
+        "district": "SANTARÉM",
+        "municipality": "SALVATERRA DE MAGOS",
+        "yearOperational": 1938,
+        "damType": "Terra homogénea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.975874643,
+          39.014957252
+        ]
+      },
+      "properties": {
+        "name": "Maranhão",
+        "basin": "TEJO",
+        "district": "PORTALEGRE",
+        "municipality": "AVIS",
+        "yearOperational": 1957,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.143479774,
+          40.260489063
+        ]
+      },
+      "properties": {
+        "name": "Meimoa",
+        "basin": "TEJO",
+        "district": "CASTELO BRANCO",
+        "municipality": "PENAMACOR",
+        "yearOperational": 1985,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.097572087,
+          38.659038424
+        ]
+      },
+      "properties": {
+        "name": "Minutos",
+        "basin": "TEJO",
+        "district": "ÉVORA",
+        "municipality": "MONTEMOR-O-NOVO",
+        "yearOperational": 2003,
+        "damType": "Terra homogénea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.263942199,
+          41.489049236
+        ]
+      },
+      "properties": {
+        "name": "Miranda",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "MIRANDA DO DOURO",
+        "yearOperational": 1961,
+        "damType": "Contrafortes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.175321985,
+          39.053165709
+        ]
+      },
+      "properties": {
+        "name": "Montargil",
+        "basin": "TEJO",
+        "district": "PORTALEGRE",
+        "municipality": "PONTE DE SOR",
+        "yearOperational": 1958,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.237002996,
+          37.790725784
+        ]
+      },
+      "properties": {
+        "name": "Monte Gato",
+        "basin": "SADO",
+        "district": "BEJA",
+        "municipality": "OURIQUE",
+        "yearOperational": 1991,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.264338011,
+          37.78905866
+        ]
+      },
+      "properties": {
+        "name": "Monte Migueis",
+        "basin": "SADO",
+        "district": "BEJA",
+        "municipality": "OURIQUE",
+        "yearOperational": 1991,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.709971344,
+          38.511203036
+        ]
+      },
+      "properties": {
+        "name": "Monte Novo",
+        "basin": "GUADIANA",
+        "district": "ÉVORA",
+        "municipality": "ÉVORA",
+        "yearOperational": 1982,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.08585957,
+          40.130349257
+        ]
+      },
+      "properties": {
+        "name": "Monte Redondo",
+        "basin": "MONDEGO",
+        "district": "COIMBRA",
+        "municipality": "GÓIS",
+        "yearOperational": 1950,
+        "damType": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.287053521,
+          37.728405836
+        ]
+      },
+      "properties": {
+        "name": "Monte da Rocha",
+        "basin": "SADO",
+        "district": "BEJA",
+        "municipality": "OURIQUE",
+        "yearOperational": 1972,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.747110954,
+          41.87190996
+        ]
+      },
+      "properties": {
+        "name": "Montezinho",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "BRAGANÇA",
+        "yearOperational": 1995,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.761234719,
+          37.897728975
+        ]
+      },
+      "properties": {
+        "name": "Morgavel",
+        "basin": "RIBEIRAS DO ALENTEJO",
+        "district": "SETÚBAL",
+        "municipality": "SINES",
+        "yearOperational": 1980,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.33596664,
+          38.398949802
+        ]
+      },
+      "properties": {
+        "name": "Mourão",
+        "basin": "GUADIANA",
+        "district": "ÉVORA",
+        "municipality": "MOURÃO",
+        "yearOperational": 1955,
+        "damType": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.093731898,
+          39.507877562
+        ]
+      },
+      "properties": {
+        "name": "Negrelinho",
+        "basin": "TEJO",
+        "district": "SANTARÉM",
+        "municipality": "ABRANTES",
+        "yearOperational": 1976,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.486445891,
+          37.331099795
+        ]
+      },
+      "properties": {
+        "name": "Odeleite",
+        "basin": "GUADIANA",
+        "district": "FARO",
+        "municipality": "CASTRO MARIM",
+        "yearOperational": 1997,
+        "damType": "Enrocamento com cortina a montante"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.474016,
+          37.288317
+        ]
+      },
+      "properties": {
+        "name": "Odelouca",
+        "basin": "ARADE",
+        "district": "FARO",
+        "municipality": "MONCHIQUE",
+        "yearOperational": 2009,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.115309053,
+          38.184779216
+        ]
+      },
+      "properties": {
+        "name": "Odivelas",
+        "basin": "SADO",
+        "district": "BEJA",
+        "municipality": "FERREIRA DO ALENTEJO",
+        "yearOperational": 1972,
+        "damType": "Abóbodas múltiplas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.001906632,
+          41.308204202
+        ]
+      },
+      "properties": {
+        "name": "Olo",
+        "basin": "DOURO",
+        "district": "PORTO",
+        "municipality": "AMARANTE",
+        "yearOperational": 1949,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.351861573,
+          40.851322347
+        ]
+      },
+      "properties": {
+        "name": "Padrastos",
+        "basin": "VOUGA/RIBEIRAS COSTEIRAS",
+        "district": "AVEIRO",
+        "municipality": "VALE DE CAMBRA",
+        "yearOperational": 1965,
+        "damType": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.176429655,
+          41.229332121
+        ]
+      },
+      "properties": {
+        "name": "Palameiro",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "TORRE DE MONCORVO",
+        "yearOperational": 1992,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.950110921,
+          41.766906241
+        ]
+      },
+      "properties": {
+        "name": "Paradela",
+        "basin": "CÁVADO/RIBEIRAS COSTEIRAS",
+        "district": "VILA REAL",
+        "municipality": "MONTALEGRE",
+        "yearOperational": 1956,
+        "damType": "Enrocamento com cortina a montante"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.589464748,
+          39.247600671
+        ]
+      },
+      "properties": {
+        "name": "Patudos",
+        "basin": "TEJO",
+        "district": "SANTARÉM",
+        "municipality": "ALPIARÇA",
+        "yearOperational": 1984,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.174163649,
+          41.295438166
+        ]
+      },
+      "properties": {
+        "name": "Peneireiro",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "VILA FLOR",
+        "yearOperational": 1973,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.015379199,
+          40.045468454
+        ]
+      },
+      "properties": {
+        "name": "Penha Garcia",
+        "basin": "TEJO",
+        "district": "CASTELO BRANCO",
+        "municipality": "IDANHA-A-NOVA",
+        "yearOperational": 1978,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.035586552,
+          38.499682917
+        ]
+      },
+      "properties": {
+        "name": "Tourega",
+        "basin": "SADO",
+        "district": "ÉVORA",
+        "municipality": "ÉVORA",
+        "yearOperational": 1953,
+        "damType": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.537080799,
+          41.549571699
+        ]
+      },
+      "properties": {
+        "name": "Penide",
+        "basin": "CÁVADO/RIBEIRAS COSTEIRAS",
+        "district": "BRAGA",
+        "municipality": "BARCELOS",
+        "yearOperational": 1951,
+        "damType": "Alvenaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.351779044,
+          41.380152875
+        ]
+      },
+      "properties": {
+        "name": "Picote",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "MIRANDA DO DOURO",
+        "yearOperational": 1958,
+        "damType": "Arco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.556591477,
+          40.02171154
+        ]
+      },
+      "properties": {
+        "name": "Pisco",
+        "basin": "TEJO",
+        "district": "CASTELO BRANCO",
+        "municipality": "CASTELO BRANCO",
+        "yearOperational": 1968,
+        "damType": "Terra homogénea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.114295478,
+          41.135220512
+        ]
+      },
+      "properties": {
+        "name": "Pocinho",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "TORRE DE MONCORVO",
+        "yearOperational": 1982,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.582105219,
+          39.515993123
+        ]
+      },
+      "properties": {
+        "name": "Poio",
+        "basin": "TEJO",
+        "district": "PORTALEGRE",
+        "municipality": "NISA",
+        "yearOperational": 1932,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.812031778,
+          39.565040586
+        ]
+      },
+      "properties": {
+        "name": "Pracana",
+        "basin": "TEJO",
+        "district": "SANTARÉM",
+        "municipality": "MAÇÃO",
+        "yearOperational": 1950,
+        "damType": "Contrafortes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.39201381,
+          38.418701966
+        ]
+      },
+      "properties": {
+        "name": "Pêgo do Altar",
+        "basin": "SADO",
+        "district": "SETÚBAL",
+        "municipality": "ALCÁCER DO SAL",
+        "yearOperational": 1949,
+        "damType": "Enrocamento com cortina a montante"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.555368864,
+          39.476927164
+        ]
+      },
+      "properties": {
+        "name": "Póvoa",
+        "basin": "TEJO",
+        "district": "PORTALEGRE",
+        "municipality": "CASTELO DE VIDE",
+        "yearOperational": 1928,
+        "damType": "Arco Gravidade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.163468839,
+          41.503243974
+        ]
+      },
+      "properties": {
+        "name": "Queimadela",
+        "basin": "AVE/LEÇA",
+        "district": "BRAGA",
+        "municipality": "FAFE",
+        "yearOperational": 1993,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.248956306,
+          40.309694305
+        ]
+      },
+      "properties": {
+        "name": "Raiva",
+        "basin": "MONDEGO",
+        "district": "COIMBRA",
+        "municipality": "PENACOVA",
+        "yearOperational": 1981,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.335254509,
+          41.008209517
+        ]
+      },
+      "properties": {
+        "name": "Ranhados",
+        "basin": "DOURO",
+        "district": "GUARDA",
+        "municipality": "MÊDA",
+        "yearOperational": 1986,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.176627384,
+          41.755863189
+        ]
+      },
+      "properties": {
+        "name": "Rebordelo",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "VINHAIS",
+        "yearOperational": 2004,
+        "damType": "Arco Gravidade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.422064479,
+          38.764116506
+        ]
+      },
+      "properties": {
+        "name": "Rio da Mula",
+        "basin": "RIBEIRAS DO OESTE",
+        "district": "LISBOA",
+        "municipality": "CASCAIS",
+        "yearOperational": 1969,
+        "damType": "Mistas de betão e aterro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.081894325,
+          37.929604974
+        ]
+      },
+      "properties": {
+        "name": "Roxo",
+        "basin": "SADO",
+        "district": "BEJA",
+        "municipality": "ALJUSTREL",
+        "yearOperational": 1967,
+        "damType": "Contrafortes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.480034341,
+          41.585252289
+        ]
+      },
+      "properties": {
+        "name": "Ruães",
+        "basin": "CÁVADO/RIBEIRAS COSTEIRAS",
+        "district": "BRAGA",
+        "municipality": "VILA VERDE",
+        "yearOperational": 1928,
+        "damType": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.154476787,
+          40.508653906
+        ]
+      },
+      "properties": {
+        "name": "Rãs",
+        "basin": "MONDEGO",
+        "district": "VISEU",
+        "municipality": "TONDELA",
+        "yearOperational": 1973,
+        "damType": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.739858845,
+          41.146236682
+        ]
+      },
+      "properties": {
+        "name": "Régua",
+        "basin": "DOURO",
+        "district": "VILA REAL",
+        "municipality": "PESO DA RÉGUA",
+        "yearOperational": 1973,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.317546082,
+          39.334637334
+        ]
+      },
+      "properties": {
+        "name": "S. Domingos",
+        "basin": "RIBEIRAS DO OESTE",
+        "district": "LEIRIA",
+        "municipality": "PENICHE",
+        "yearOperational": 1993,
+        "damType": "Enrocamento com núcleo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.091633279,
+          40.336111646
+        ]
+      },
+      "properties": {
+        "name": "Sabugal",
+        "basin": "DOURO",
+        "district": "GUARDA",
+        "municipality": "SABUGAL",
+        "yearOperational": 2000,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.091547753,
+          41.691451479
+        ]
+      },
+      "properties": {
+        "name": "Salamonde",
+        "basin": "CÁVADO/RIBEIRAS COSTEIRAS",
+        "district": "BRAGA",
+        "municipality": "VIEIRA DO MINHO",
+        "yearOperational": 1953,
+        "damType": "Arco Abóboda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.053670659,
+          41.335015135
+        ]
+      },
+      "properties": {
+        "name": "Salgueiro",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "ALFÂNDEGA DA FÉ",
+        "yearOperational": 1977,
+        "damType": "Terra homogénea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.441294976,
+          37.513121619
+        ]
+      },
+      "properties": {
+        "name": "Santa Clara",
+        "basin": "MIRA",
+        "district": "BEJA",
+        "municipality": "ODEMIRA",
+        "yearOperational": 1968,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.889754507,
+          40.864367094
+        ]
+      },
+      "properties": {
+        "name": "Santa Maria de Aguiar",
+        "basin": "DOURO",
+        "district": "GUARDA",
+        "municipality": "FIGUEIRA DE CASTELO RODRIGO",
+        "yearOperational": 1981,
+        "damType": "Terra homogénea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.772207816,
+          41.961265612
+        ]
+      },
+      "properties": {
+        "name": "Serra Serrada",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "BRAGANÇA",
+        "yearOperational": 1989,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.788742687,
+          41.269668917
+        ]
+      },
+      "properties": {
+        "name": "Sordo",
+        "basin": "DOURO",
+        "district": "VILA REAL",
+        "municipality": "VILA REAL",
+        "yearOperational": 1997,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.018976363,
+          40.802835496
+        ]
+      },
+      "properties": {
+        "name": "Srª Monforte",
+        "basin": "DOURO",
+        "district": "GUARDA",
+        "municipality": "PINHEL",
+        "yearOperational": 1993,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.858163796,
+          40.089696285
+        ]
+      },
+      "properties": {
+        "name": "Sta. Luzia",
+        "basin": "TEJO",
+        "district": "COIMBRA",
+        "municipality": "PAMPILHOSA DA SERRA",
+        "yearOperational": 1942,
+        "damType": "Arco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.481001209,
+          39.968788305
+        ]
+      },
+      "properties": {
+        "name": "Sta. Águeda (Marateca)",
+        "basin": "TEJO",
+        "district": "CASTELO BRANCO",
+        "municipality": "CASTELO BRANCO",
+        "yearOperational": 1991,
+        "damType": "Terra homogénea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.178688498,
+          41.397561252
+        ]
+      },
+      "properties": {
+        "name": "Sumidouro",
+        "basin": "AVE/LEÇA",
+        "district": "BRAGA",
+        "municipality": "FAFE",
+        "yearOperational": 1972,
+        "damType": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.507112323,
+          37.669222953
+        ]
+      },
+      "properties": {
+        "name": "Tapada Grande",
+        "basin": "GUADIANA",
+        "district": "BEJA",
+        "municipality": "MÉRTOLA",
+        "yearOperational": 1882,
+        "damType": "Mistas de betão e aterro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.494775025,
+          37.672526455
+        ]
+      },
+      "properties": {
+        "name": "Tapada Pequena",
+        "basin": "GUADIANA",
+        "district": "BEJA",
+        "municipality": "MÉRTOLA",
+        "yearOperational": 1884,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.341261144,
+          40.877550901
+        ]
+      },
+      "properties": {
+        "name": "Teja",
+        "basin": "DOURO",
+        "district": "GUARDA",
+        "municipality": "MÊDA",
+        "yearOperational": 1995,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.751818869,
+          41.28599414
+        ]
+      },
+      "properties": {
+        "name": "Terragido",
+        "basin": "DOURO",
+        "district": "VILA REAL",
+        "municipality": "VILA REAL",
+        "yearOperational": 1993,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.261357767,
+          41.097129994
+        ]
+      },
+      "properties": {
+        "name": "Torrão",
+        "basin": "DOURO",
+        "district": "PORTO",
+        "municipality": "MARCO DE CANAVESES",
+        "yearOperational": 1988,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.076150036,
+          39.873413948
+        ]
+      },
+      "properties": {
+        "name": "Touliça",
+        "basin": "TEJO",
+        "district": "CASTELO BRANCO",
+        "municipality": "IDANHA-A-NOVA",
+        "yearOperational": 1979,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.35376078,
+          41.812232404
+        ]
+      },
+      "properties": {
+        "name": "Touvedo",
+        "basin": "LIMA",
+        "district": "VIANA DO CASTELO",
+        "municipality": "PONTE DA BARCA",
+        "yearOperational": 1993,
+        "damType": "Gravidade de betão aligeirada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.015830129,
+          41.266891481
+        ]
+      },
+      "properties": {
+        "name": "Vale Côvo (Salgueiral)",
+        "basin": "DOURO",
+        "district": "BRAGANÇA",
+        "municipality": "TORRE DE MONCORVO",
+        "yearOperational": 1993,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.551835099,
+          37.756708717
+        ]
+      },
+      "properties": {
+        "name": "Vale Formoso",
+        "basin": "GUADIANA",
+        "district": "BEJA",
+        "municipality": "MÉRTOLA",
+        "yearOperational": 1955,
+        "damType": "Terra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.613863962,
+          38.585240649
+        ]
+      },
+      "properties": {
+        "name": "Vale das Bicas",
+        "basin": "SADO",
+        "district": "ÉVORA",
+        "municipality": "VENDAS NOVAS",
+        "yearOperational": 1939,
+        "damType": "Terra homogénea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.295503923,
+          38.248107712
+        ]
+      },
+      "properties": {
+        "name": "Vale do Gaio",
+        "basin": "SADO",
+        "district": "SETÚBAL",
+        "municipality": "ALCÁCER DO SAL",
+        "yearOperational": 1949,
+        "damType": "Enrocamento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.588544554,
+          40.399609228
+        ]
+      },
+      "properties": {
+        "name": "Vale do Rossim",
+        "basin": "MONDEGO",
+        "district": "GUARDA",
+        "municipality": "GOUVEIA",
+        "yearOperational": 1956,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.37506638,
+          41.160299006
+        ]
+      },
+      "properties": {
+        "name": "Valeira",
+        "basin": "DOURO",
+        "district": "VISEU",
+        "municipality": "SÃO JOÃO DA PESQUEIRA",
+        "yearOperational": 1975,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.77560316,
+          41.120420652
+        ]
+      },
+      "properties": {
+        "name": "Varosa",
+        "basin": "DOURO",
+        "district": "VISEU",
+        "municipality": "LAMEGO",
+        "yearOperational": 1934,
+        "damType": "Arco Abóboda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.984773617,
+          41.681225973
+        ]
+      },
+      "properties": {
+        "name": "Venda Nova (Rabagão)",
+        "basin": "CÁVADO/RIBEIRAS COSTEIRAS",
+        "district": "BRAGA",
+        "municipality": "VIEIRA DO MINHO",
+        "yearOperational": 1951,
+        "damType": "Gravidade de betão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.83591519,
+          38.69074516
+        ]
+      },
+      "properties": {
+        "name": "Venda Velha",
+        "basin": "TEJO",
+        "district": "SETÚBAL",
+        "municipality": "ALCOCHETE",
+        "yearOperational": 1957,
+        "damType": "Terra homogénea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.607082669,
+          38.538099703
+        ]
+      },
+      "properties": {
+        "name": "Vigia",
+        "basin": "GUADIANA",
+        "district": "ÉVORA",
+        "municipality": "REDONDO",
+        "yearOperational": 1981,
+        "damType": "Terra zonada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.534833884,
+          40.987194175
+        ]
+      },
+      "properties": {
+        "name": "Vilar-Tabuaço",
+        "basin": "DOURO",
+        "district": "VISEU",
+        "municipality": "SERNANCELHE",
+        "yearOperational": 1965,
+        "damType": "Enrocamento com cortina a montante"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.209782724,
+          41.7634327
+        ]
+      },
+      "properties": {
+        "name": "Vilarinho das Furnas",
+        "basin": "CÁVADO/RIBEIRAS COSTEIRAS",
+        "district": "BRAGA",
+        "municipality": "TERRAS DE BOURO",
+        "yearOperational": 1972,
+        "damType": "Abóboda"
+      }
+    }
+  ]
+}
