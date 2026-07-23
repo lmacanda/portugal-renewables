@@ -110,6 +110,38 @@ how the mix breathes as the sun and wind change.
   `export interface DamFeature` in `types.ts` (root level, sibling to
   `app/`), imported into `DamsMap.tsx`
 
+  ## Step 7 — Generation mix chart + two-panel layout ✅
+
+- Created `app/api/generation-mix/route.ts`: proxies REN's
+  `ElectricityProductionBreakdownDaily` endpoint server-side (avoids
+  CORS), takes a `?date=YYYY-MM-DD` query param
+- Added `lib/dates.ts` → `yesterdayDateString()`, since REN's endpoint
+  is a "day in review," not live-right-now — today's date returns
+  "No data found" until the day is over
+- Added `lib/reshapeGenerationMix.ts` — pivots REN's column-oriented
+  response (`xAxis.categories` + `series[].data`, shaped for
+  Highcharts) into row-oriented data (`[{ time, Hydro, Solar, Wind,
+  ... }, ...]`), which is what recharts wants
+- Built `components/GenerationMixChart.tsx` — stacked `AreaChart`
+  (recharts) showing Hydro / Solar / Wind / Natural Gas only, colored
+  to match REN's own scheme (green hydro+wind, amber solar, grey gas)
+  rather than arbitrary hues
+- **Scoped down on purpose:** left out Consumption, Import/Export
+  (Spain interconnection), and Pumping for now — stacking 7-8 series at
+  once would be noise; those are a planned addition, not forgotten
+- Split layout into two separate divs (map, chart) using flexbox
+  (`flexDirection: column`, map div `flex: 1`) rather than the chart
+  floating on top of the map — simpler, own regions each
+
+### Bugs / gotchas hit
+
+- Map div needs `width/height: 100%` (fill its flex container) once it
+  stopped being full-viewport — `100vw/100vh` made it ignore the layout
+  and cover the chart panel underneath it
+
+**Result:** map on top, generation-mix stacked area chart underneath,
+both showing real data end to end.
+
 ### Bugs hit + fixed (real ones, worth remembering)
 
 - **`fs.writeFileSync` failing with ENOENT** — it won't create missing
@@ -132,13 +164,21 @@ how the mix breathes as the sun and wind change.
 **Result:** dam markers render correctly on the map, clickable, showing
 real name/basin/municipality/district per dam.
 
-## Next steps (not done yet)
+## Next steps / ideas (not yet built)
 
-- [X ] Load `public/data/dams.geojson` into a Mapbox map (reusing the
+- [x] Load `public/data/dams.geojson` into a Mapbox map (reusing the
       Marker pattern from vinho-map)
-- [ ] Wire up REN's generation-mix endpoint alongside the map (chart or
+- [x] Wire up REN's generation-mix endpoint alongside the map (chart or
       HUD panel)
-- [ ] Decide how "where" (dam map) and "how the mix changes" (REN chart)
+- [x] Decide how "where" (dam map) and "how the mix changes" (REN chart)
       share the page
-- [ ] Timeline scrubber synced across both, if time allows
-- [ ] Narrative callouts (the storytelling layer)
+
+- [ ] **Chart hour labels** — currently hidden (`XAxis hide`); need to
+      decide which of the 96 fifteen-minute ticks to actually show
+      (e.g. every 4 hours) so it's readable without clutter
+- [ ] **Dam markers on Mapbox** — still plain default pins; open
+      question on what should encode meaning (size by reservoir
+      capacity? color by basin? cluster at low zoom levels?) — needs a
+      decision before building
+- [ ] **Add Import/Export (Spain interconnection), Consumption, and
+      Pumping**
