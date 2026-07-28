@@ -11,6 +11,7 @@ import {
 } from "recharts";
 import { yesterdayDateString } from "@/app/lib/dates";
 import { reshapeGenerationMix } from "@/app/lib/reshapeGenerationMix";
+import Button from "./Button";
 
 const SOURCE_COLORS: Record<string, string> = {
   Hydro: "#378ADD", // matches the dam marker blue on the map
@@ -59,34 +60,8 @@ export default function GenerationMixChart() {
             fontSize: "13px",
           }}
         />
-        <button
-          onClick={() => setDate(yesterdayDateString())}
-          style={{
-            background: "transparent",
-            border: "1px solid rgba(255,255,255,0.1)",
-            borderRadius: "6px",
-            color: "#eef2f6",
-            padding: "4px 10px",
-            fontSize: "12px",
-            cursor: "pointer",
-          }}
-        >
-          Yesterday
-        </button>
-        <button
-          onClick={() => setDate(shiftDate(date, -7))}
-          style={{
-            background: "transparent",
-            border: "1px solid rgba(255,255,255,0.1)",
-            borderRadius: "6px",
-            color: "#eef2f6",
-            padding: "4px 10px",
-            fontSize: "12px",
-            cursor: "pointer",
-          }}
-        >
-          −7 days
-        </button>
+        <Button onClick={() => setDate(yesterdayDateString())}>Yesterday</Button>
+        <Button onClick={() => setDate(shiftDate(date, -7))}>−7 days</Button>
       </div>
 
       <div style={{ width: "100%", height: 180 }}>
@@ -101,21 +76,21 @@ export default function GenerationMixChart() {
             />
             <YAxis hide />
             <Tooltip />
-           {Object.entries(SOURCE_COLORS).map(([key, color]) => {
-  const isEmphasized = key === EMPHASIZED_SOURCE;
-  return (
-    <Area
-      key={key}
-      type="monotone"
-      dataKey={key}
-      stackId="mix"
-      stroke={color}
-      strokeWidth={isEmphasized ? 2.5 : 1}
-      fill={color}
-      fillOpacity={isEmphasized ? 0.55 : 0.15}
-    />
-  );
-})}
+            {Object.entries(SOURCE_COLORS).map(([key, color]) => {
+              const isEmphasized = key === EMPHASIZED_SOURCE;
+              return (
+                <Area
+                  key={key}
+                  type="monotone"
+                  dataKey={key}
+                  stackId="mix"
+                  stroke={color}
+                  strokeWidth={isEmphasized ? 2.5 : 1}
+                  fill={color}
+                  fillOpacity={isEmphasized ? 0.55 : 0.15}
+                />
+              );
+            })}
           </AreaChart>
         </ResponsiveContainer>
       </div>
