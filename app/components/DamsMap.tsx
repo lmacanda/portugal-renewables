@@ -21,6 +21,11 @@ export default function DamsMap() {
       zoom: 6,
     });
 
+    const resizeObserver = new ResizeObserver(() => {
+      map.current?.resize();
+    });
+    resizeObserver.observe(mapContainer.current);
+
     map.current.on("load", () => {
       fetch("/data/dams.geojson")
         .then((response) => response.json())
@@ -47,10 +52,14 @@ export default function DamsMap() {
                 )
               )
               .addTo(map.current!);
-          }); // closes forEach
-        }); // closes second .then
-    }); // closes "load" callback
-  }, []); // closes useEffect
+          });
+        });
+    });
+
+    return () => {
+      resizeObserver.disconnect();
+    };
+  }, []);
 
   return <div ref={mapContainer} style={{ width: "100%", height: "100%" }} />;
 }
