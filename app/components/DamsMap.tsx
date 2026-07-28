@@ -32,7 +32,7 @@ export default function DamsMap() {
         .then((geojson) => {
           geojson.features.forEach((feature: DamFeature) => {
             const { coordinates } = feature.geometry;
-            const { name, basin, district, municipality, capacity } =
+            const { name, capacity } =
               feature.properties;
 
             const el = document.createElement("div");
@@ -44,14 +44,17 @@ export default function DamsMap() {
             el.style.opacity = "0.7";
             el.style.border = "1px solid #fff";
 
-            new mapboxgl.Marker({ element: el })
-              .setLngLat(coordinates)
-              .setPopup(
-                new mapboxgl.Popup().setHTML(
-                  `<strong>${name}</strong><br/>${basin}<br/>${municipality}, ${district}`
-                )
-              )
-              .addTo(map.current!);
+            const marker = new mapboxgl.Marker({ element: el })
+  .setLngLat(coordinates)
+  .setPopup(
+    new mapboxgl.Popup({ offset: 12, closeButton: false }).setHTML(
+      `<strong>${name}</strong><br/>${capacity} hm³ reservoir capacity`
+    )
+  )
+  .addTo(map.current!);
+
+el.addEventListener("mouseenter", () => marker.togglePopup());
+el.addEventListener("mouseleave", () => marker.togglePopup());
           });
         });
     });

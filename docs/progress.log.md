@@ -164,6 +164,21 @@ both showing real data end to end.
 **Result:** dam markers render correctly on the map, clickable, showing
 real name/basin/municipality/district per dam.
 
+Step 8 — Chart labels, date picker, capacity-sized dam markers, dams list ✅
+Chart X-axis: interval={11} on recharts' <XAxis> → labels every 3 hours instead of all 96 fifteen-minute ticks
+Date picker: date state added, useEffect now depends on [date] so changing the date actually refetches; "Yesterday" and "−7 days" quick-jump buttons via a small shiftDate() helper
+Added capacity (reservoir storage, hm³, from SNIRH's compax_lag field) through the whole pipeline: CSV → build-dams-geojson.ts → types.ts → DamsMap.tsx. Named consistently as capacity everywhere — earlier drafts drifted across three different names (compax_lag, capacityLag, capacity) across three files, which was the actual bug for a while, not the code logic itself
+Dam markers now sized by Math.sqrt(capacity) (not raw value) so area, not diameter, scales proportionally with capacity — the correct way to size circles by a quantity
+Split page layout: left sidebar (dams list, 320px) + right column (map on top, chart below) — nested flexbox, outer row / inner column
+Built components/DamsList.tsx: sorted by capacity descending, hover highlight per row, column header row (Name / Type / Capacity) with a divider line, small project title above the list
+
+Bugs hit + fixed
+Mapbox rendering a split/fragmented map after adding the sidebar — Mapbox sizes its canvas once at creation and doesn't auto-detect its container resizing afterward. Fixed with a ResizeObserver on the map container calling map.current.resize(), cleaned up via resizeObserver.disconnect() in useEffect's return.
+useEffect cleanup placed too early, killing the rest of the effect — a bare return () => {...} immediately exits the function; had to move it to the very end, after everything else runs once.
+Import statement had the right file but the wrong name — import DamsList from ".../DamsMap" legally imports the map component but labels it DamsList in that file; nothing checks that the alias matches the component's real purpose. Explains why the sidebar showed a fragment of the map instead of a list.
+
+Result: left sidebar lists all dams (sorted, hover-highlighted), map shows capacity-sized/colored circles, chart has readable hour labels and a working date picker with quick-jump buttons.
+
 ## Next steps / ideas (not yet built)
 
 - [x] Load `public/data/dams.geojson` into a Mapbox map (reusing the
@@ -182,3 +197,38 @@ real name/basin/municipality/district per dam.
       decision before building
 - [ ] **Add Import/Export (Spain interconnection), Consumption, and
       Pumping**
+      - [X] **Capacity on hover** — show the number when hovering a map
+      circle (via popup or tooltip), rather than as its own list
+      column; keep a small de-emphasized capacity value in the list
+      too for scanning/reference
+- [X] **Narrative link between map and chart** — right now they're two
+      disconnected widgets. Ideas, cheap → involved:
+      1. Visual emphasis: give Hydro's band in the chart a bolder
+         stroke/full opacity, mute Solar/Wind/Gas slightly, so the
+         "mapped" source stands out from the rest of the national mix
+      2. A short caption near the chart explaining the connection
+         ("Hydro, mapped left, vs. the rest of the national mix")
+      3. Real interactivity: hovering a dam on the map highlights the
+         Hydro band in the chart at that moment (or the reverse) — same
+         underlying "linked views" mechanism as the list↔map hover idea
+         below; worth designing both together rather than separately
+- [ ] **Hover a row in the list → highlight the matching dam on the
+      map** (and/or the reverse) — needs shared state lifted above both
+      components, not yet designed
+- [ ] **"Reveal dams by year" button** — animate dams appearing on the
+      map ordered by `yearOperational` instead of all-at-once; turns
+      the map into a genuine history-of-the-grid narrative. Good
+      candidate for the storytelling layer, optional/toggleable rather
+      than the default view
+- [ ] Dam marker photos (Wikimedia Commons, where available — most of
+      the 162 won't have one)
+- [ ] MW generation capacity (vs. current reservoir-volume capacity),
+      if a usable source is found
+- [ ] Add Import/Export (Spain interconnection), Consumption, Pumping
+      to the chart as an optional layer
+- [ ] OpenStreetMap / Open Infrastructure Map power plants — Portugal
+      has 1,607 mapped power plants (24,277 MW) with real locations;
+      could close the "why only dams are mapped" gap for wind/solar/gas
+- [ ] Renewable % of total generation — one stat, or a treemap variant,
+      computed from data already in hand
+- [ ] Timeline scrubber synced across map + chart

@@ -20,8 +20,8 @@ export default function DamsList() {
   return (
     <div>
       <div style={{ padding: "16px 14px 12px" }}>
-        <h1 style={{ fontSize: "16px", fontWeight: 600, color: "#eef2f6", margin: 0 }}>
-          Portugal renewables
+        <h1 style={{ fontSize: "29px", fontWeight: 600, color: "black", margin: 0 }}>
+          DAMS
         </h1>
         <p style={{ fontSize: "12px", color: "#898781", margin: "2px 0 0" }}>
           {dams.length} dams · sorted by reservoir capacity

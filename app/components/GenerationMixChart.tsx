@@ -13,11 +13,13 @@ import { yesterdayDateString } from "@/app/lib/dates";
 import { reshapeGenerationMix } from "@/app/lib/reshapeGenerationMix";
 
 const SOURCE_COLORS: Record<string, string> = {
-  Hydro: "#639922",
+  Hydro: "#378ADD", // matches the dam marker blue on the map
   Solar: "#eda100",
   Wind: "#008300",
   "Natural Gas": "#898781",
 };
+
+const EMPHASIZED_SOURCE = "Hydro";
 
 function shiftDate(base: string, days: number): string {
   const d = new Date(base);
@@ -99,17 +101,21 @@ export default function GenerationMixChart() {
             />
             <YAxis hide />
             <Tooltip />
-            {Object.entries(SOURCE_COLORS).map(([key, color]) => (
-              <Area
-                key={key}
-                type="monotone"
-                dataKey={key}
-                stackId="mix"
-                stroke={color}
-                fill={color}
-                fillOpacity={0.3}
-              />
-            ))}
+           {Object.entries(SOURCE_COLORS).map(([key, color]) => {
+  const isEmphasized = key === EMPHASIZED_SOURCE;
+  return (
+    <Area
+      key={key}
+      type="monotone"
+      dataKey={key}
+      stackId="mix"
+      stroke={color}
+      strokeWidth={isEmphasized ? 2.5 : 1}
+      fill={color}
+      fillOpacity={isEmphasized ? 0.55 : 0.15}
+    />
+  );
+})}
           </AreaChart>
         </ResponsiveContainer>
       </div>
