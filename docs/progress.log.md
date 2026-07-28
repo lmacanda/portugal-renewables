@@ -173,10 +173,10 @@ real name/basin/municipality/district per dam.
 - [x] Decide how "where" (dam map) and "how the mix changes" (REN chart)
       share the page
 
-- [ ] **Chart hour labels** — currently hidden (`XAxis hide`); need to
+- [X] **Chart hour labels** — currently hidden (`XAxis hide`); need to
       decide which of the 96 fifteen-minute ticks to actually show
       (e.g. every 4 hours) so it's readable without clutter
-- [ ] **Dam markers on Mapbox** — still plain default pins; open
+- [X] **Dam markers on Mapbox** — still plain default pins; open
       question on what should encode meaning (size by reservoir
       capacity? color by basin? cluster at low zoom levels?) — needs a
       decision before building

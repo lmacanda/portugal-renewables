@@ -16,7 +16,8 @@
         "district": "BEJA",
         "municipality": "MOURA",
         "yearOperational": 2002,
-        "damType": "Abóboda"
+        "damType": "Abóboda",
+        "capacity": 748.3
       }
     },
     {
@@ -34,7 +35,8 @@
         "district": "COIMBRA",
         "municipality": "PAMPILHOSA DA SERRA",
         "yearOperational": 1949,
-        "damType": "Abóboda"
+        "damType": "Abóboda",
+        "capacity": 10.5
       }
     },
     {
@@ -52,7 +54,8 @@
         "district": "VILA REAL",
         "municipality": "MONTALEGRE",
         "yearOperational": 1964,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 21.6
       }
     },
     {
@@ -70,7 +73,8 @@
         "district": "VIANA DO CASTELO",
         "municipality": "ARCOS DE VALDEVEZ",
         "yearOperational": 1992,
-        "damType": "Arco Abóboda"
+        "damType": "Arco Abóboda",
+        "capacity": 81.5
       }
     },
     {
@@ -88,7 +92,8 @@
         "district": "VILA REAL",
         "municipality": "MONTALEGRE",
         "yearOperational": 1964,
-        "damType": "Abóboda"
+        "damType": "Abóboda",
+        "capacity": 18.6
       }
     },
     {
@@ -106,7 +111,8 @@
         "district": "BEJA",
         "municipality": "CUBA",
         "yearOperational": 1977,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 23.1
       }
     },
     {
@@ -124,7 +130,8 @@
         "district": "BRAGA",
         "municipality": "GUIMARÃES",
         "yearOperational": 1945,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 8.7
       }
     },
     {
@@ -142,7 +149,8 @@
         "district": "PORTALEGRE",
         "municipality": "MARVÃO",
         "yearOperational": 1993,
-        "damType": "Enrocamento com cortina a montante"
+        "damType": "Enrocamento com cortina a montante",
+        "capacity": 5.9
       }
     },
     {
@@ -160,7 +168,8 @@
         "district": "FARO",
         "municipality": "SILVES",
         "yearOperational": 1956,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 5.9
       }
     },
     {
@@ -178,7 +187,8 @@
         "district": "VILA REAL",
         "municipality": "CHAVES",
         "yearOperational": 1999,
-        "damType": "Enrocamento com cortina a montante"
+        "damType": "Enrocamento com cortina a montante",
+        "capacity": 9.8
       }
     },
     {
@@ -196,7 +206,8 @@
         "district": "BRAGANÇA",
         "municipality": "FREIXO DE ESPADA À CINTA",
         "yearOperational": 1992,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 2.5
       }
     },
     {
@@ -214,7 +225,8 @@
         "district": "BRAGANÇA",
         "municipality": "MACEDO DE CAVALEIROS",
         "yearOperational": 1982,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 18
       }
     },
     {
@@ -232,7 +244,8 @@
         "district": "PORTALEGRE",
         "municipality": "CAMPO MAIOR",
         "yearOperational": 2000,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 22.5
       }
     },
     {
@@ -250,7 +263,8 @@
         "district": "VISEU",
         "municipality": "MORTÁGUA",
         "yearOperational": 1981,
-        "damType": "Arcos Múltiplos"
+        "damType": "Arcos Múltiplos",
+        "capacity": 122.7
       }
     },
     {
@@ -268,7 +282,8 @@
         "district": "FARO",
         "municipality": "ALCOUTIM",
         "yearOperational": 1995,
-        "damType": "Enrocamento com núcleo"
+        "damType": "Enrocamento com núcleo",
+        "capacity": 12.2
       }
     },
     {
@@ -286,7 +301,8 @@
         "district": "VILA REAL",
         "municipality": "ALIJÓ",
         "yearOperational": 1991,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 5.8
       }
     },
     {
@@ -304,7 +320,8 @@
         "district": "GUARDA",
         "municipality": "GUARDA",
         "yearOperational": 1938,
-        "damType": "Alvenaria"
+        "damType": "Alvenaria",
+        "capacity": 37.1
       }
     },
     {
@@ -322,7 +339,8 @@
         "district": "VISEU",
         "municipality": "TONDELA",
         "yearOperational": 1927,
-        "damType": "Alvenaria"
+        "damType": "Alvenaria",
+        "capacity": 18.6
       }
     },
     {
@@ -340,7 +358,8 @@
         "district": "COIMBRA",
         "municipality": "TÁBUA",
         "yearOperational": 1939,
-        "damType": "Alvenaria"
+        "damType": "Alvenaria",
+        "capacity": 56.1
       }
     },
     {
@@ -358,7 +377,8 @@
         "district": "GUARDA",
         "municipality": "SEIA",
         "yearOperational": 1940,
-        "damType": "Alvenaria"
+        "damType": "Alvenaria",
+        "capacity": 6.2
       }
     },
     {
@@ -376,7 +396,8 @@
         "district": "BEJA",
         "municipality": "SERPA",
         "yearOperational": 2005,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 193.8
       }
     },
     {
@@ -394,7 +415,8 @@
         "district": "GUARDA",
         "municipality": "SEIA",
         "yearOperational": 1966,
-        "damType": "Alvenaria"
+        "damType": "Alvenaria",
+        "capacity": 1.1
       }
     },
     {
@@ -412,7 +434,8 @@
         "district": "GUARDA",
         "municipality": "SEIA",
         "yearOperational": 1937,
-        "damType": "Alvenaria"
+        "damType": "Alvenaria",
+        "capacity": 3.9
       }
     },
     {
@@ -430,7 +453,8 @@
         "district": "GUARDA",
         "municipality": "SEIA",
         "yearOperational": 1959,
-        "damType": "Alvenaria"
+        "damType": "Alvenaria",
+        "capacity": 15.2
       }
     },
     {
@@ -448,7 +472,8 @@
         "district": "COIMBRA",
         "municipality": "COIMBRA",
         "yearOperational": 1981,
-        "damType": "Açude móvel (com comportas)"
+        "damType": "Açude móvel (com comportas)",
+        "capacity": 58.3
       }
     },
     {
@@ -466,7 +491,8 @@
         "district": "BRAGANÇA",
         "municipality": "MOGADOURO",
         "yearOperational": 1993,
-        "damType": "Enrocamento drenante"
+        "damType": "Enrocamento drenante",
+        "capacity": 10
       }
     },
     {
@@ -484,7 +510,8 @@
         "district": "FARO",
         "municipality": "CASTRO MARIM",
         "yearOperational": 1986,
-        "damType": "Enrocamento com núcleo"
+        "damType": "Enrocamento com núcleo",
+        "capacity": 32.3
       }
     },
     {
@@ -502,7 +529,8 @@
         "district": "PORTALEGRE",
         "municipality": "GAVIÃO",
         "yearOperational": 1952,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 35.3
       }
     },
     {
@@ -520,7 +548,8 @@
         "district": "BRAGANÇA",
         "municipality": "MOGADOURO",
         "yearOperational": 1964,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 28
       }
     },
     {
@@ -538,7 +567,8 @@
         "district": "LEIRIA",
         "municipality": "PEDRÓGÃO GRANDE",
         "yearOperational": 1955,
-        "damType": "Abóboda"
+        "damType": "Abóboda",
+        "capacity": 44.4
       }
     },
     {
@@ -556,7 +586,8 @@
         "district": "FARO",
         "municipality": "LAGOS",
         "yearOperational": 1958,
-        "damType": "Arco"
+        "damType": "Arco",
+        "capacity": 16.6
       }
     },
     {
@@ -574,7 +605,8 @@
         "district": "BEJA",
         "municipality": "BARRANCOS",
         "yearOperational": 1983,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 69.3
       }
     },
     {
@@ -592,7 +624,8 @@
         "district": "BRAGANÇA",
         "municipality": "VILA FLOR",
         "yearOperational": 1978,
-        "damType": "Terra homogénea"
+        "damType": "Terra homogénea",
+        "capacity": 7.9
       }
     },
     {
@@ -610,7 +643,8 @@
         "district": "AVEIRO",
         "municipality": "OLIVEIRA DE AZEMÉIS",
         "yearOperational": 1940,
-        "damType": "Alvenaria"
+        "damType": "Alvenaria",
+        "capacity": 7.5
       }
     },
     {
@@ -628,7 +662,8 @@
         "district": "LEIRIA",
         "municipality": "PEDRÓGÃO GRANDE",
         "yearOperational": 1954,
-        "damType": "Abóboda"
+        "damType": "Abóboda",
+        "capacity": 79.6
       }
     },
     {
@@ -646,7 +681,8 @@
         "district": "BRAGANÇA",
         "municipality": "MIRANDELA",
         "yearOperational": 1972,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 0.4
       }
     },
     {
@@ -664,7 +700,8 @@
         "district": "PORTALEGRE",
         "municipality": "ELVAS",
         "yearOperational": 1967,
-        "damType": "Contrafortes"
+        "damType": "Contrafortes",
+        "capacity": 57.5
       }
     },
     {
@@ -682,7 +719,8 @@
         "district": "GUARDA",
         "municipality": "GUARDA",
         "yearOperational": 1993,
-        "damType": "Arco"
+        "damType": "Arco",
+        "capacity": 10.9
       }
     },
     {
@@ -700,7 +738,8 @@
         "district": "BRAGANÇA",
         "municipality": "ALFÂNDEGA DA FÉ",
         "yearOperational": 1993,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 6.2
       }
     },
     {
@@ -718,7 +757,8 @@
         "district": "SETÚBAL",
         "municipality": "SANTIAGO DO CACÉM",
         "yearOperational": 1954,
-        "damType": "Terra zonada com cortina"
+        "damType": "Terra zonada com cortina",
+        "capacity": 16.3
       }
     },
     {
@@ -736,7 +776,8 @@
         "district": "BRAGA",
         "municipality": "VIEIRA DO MINHO",
         "yearOperational": 1955,
-        "damType": "Arco"
+        "damType": "Arco",
+        "capacity": 27.3
       }
     },
     {
@@ -754,7 +795,8 @@
         "district": "CASTELO BRANCO",
         "municipality": "FUNDÃO",
         "yearOperational": 1981,
-        "damType": "Terra homogénea"
+        "damType": "Terra homogénea",
+        "capacity": 3.3
       }
     },
     {
@@ -772,7 +814,8 @@
         "district": "VISEU",
         "municipality": "CINFÃES",
         "yearOperational": 1972,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 69.8
       }
     },
     {
@@ -790,7 +833,8 @@
         "district": "BRAGANÇA",
         "municipality": "MACEDO DE CAVALEIROS",
         "yearOperational": 1971,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 11.3
       }
     },
     {
@@ -808,7 +852,8 @@
         "district": "BRAGANÇA",
         "municipality": "TORRE DE MONCORVO",
         "yearOperational": 1984,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 3.2
       }
     },
     {
@@ -826,7 +871,8 @@
         "district": "SANTARÉM",
         "municipality": "TOMAR",
         "yearOperational": 1951,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 111.6
       }
     },
     {
@@ -844,7 +890,8 @@
         "district": "ÉVORA",
         "municipality": "MONTEMOR-O-NOVO",
         "yearOperational": 1977,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 2
       }
     },
     {
@@ -862,7 +909,8 @@
         "district": "CASTELO BRANCO",
         "municipality": "OLEIROS",
         "yearOperational": 1991,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 11.6
       }
     },
     {
@@ -880,7 +928,8 @@
         "district": "BEJA",
         "municipality": "ODEMIRA",
         "yearOperational": 1993,
-        "damType": "Terra homogénea"
+        "damType": "Terra homogénea",
+        "capacity": 9.4
       }
     },
     {
@@ -898,7 +947,8 @@
         "district": "CASTELO BRANCO",
         "municipality": "COVILHÃ",
         "yearOperational": 1982,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 2.5
       }
     },
     {
@@ -916,7 +966,8 @@
         "district": "VIANA DO CASTELO",
         "municipality": "VILA NOVA DE CERVEIRA",
         "yearOperational": 1976,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 29
       }
     },
     {
@@ -934,7 +985,8 @@
         "district": "GUARDA",
         "municipality": "SEIA",
         "yearOperational": 1955,
-        "damType": "Arco Gravidade"
+        "damType": "Arco Gravidade",
+        "capacity": 0.1
       }
     },
     {
@@ -952,7 +1004,8 @@
         "district": "GUARDA",
         "municipality": "SEIA",
         "yearOperational": 1945,
-        "damType": "Alvenaria"
+        "damType": "Alvenaria",
+        "capacity": 1.8
       }
     },
     {
@@ -970,7 +1023,8 @@
         "district": "CASTELO BRANCO",
         "municipality": "COVILHÃ",
         "yearOperational": 1956,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 2.4
       }
     },
     {
@@ -988,7 +1042,8 @@
         "district": "GUARDA",
         "municipality": "SEIA",
         "yearOperational": 1966,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 0.7
       }
     },
     {
@@ -1006,7 +1061,8 @@
         "district": "GUARDA",
         "municipality": "SEIA",
         "yearOperational": 1953,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 2.9
       }
     },
     {
@@ -1024,7 +1080,8 @@
         "district": "GUARDA",
         "municipality": "SEIA",
         "yearOperational": 1955,
-        "damType": "Alvenaria"
+        "damType": "Alvenaria",
+        "capacity": 0.8
       }
     },
     {
@@ -1042,7 +1099,8 @@
         "district": "GUARDA",
         "municipality": "SEIA",
         "yearOperational": 1955,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 2.4
       }
     },
     {
@@ -1060,7 +1118,8 @@
         "district": "PORTALEGRE",
         "municipality": "CRATO",
         "yearOperational": 1965,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 1.4
       }
     },
     {
@@ -1078,7 +1137,8 @@
         "district": "PORTO",
         "municipality": "GONDOMAR",
         "yearOperational": 1985,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 52.5
       }
     },
     {
@@ -1096,7 +1156,8 @@
         "district": "SETÚBAL",
         "municipality": "SANTIAGO DO CACÉM",
         "yearOperational": 1953,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 15.7
       }
     },
     {
@@ -1114,7 +1175,8 @@
         "district": "ÉVORA",
         "municipality": "ARRAIOLOS",
         "yearOperational": 1965,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 10.5
       }
     },
     {
@@ -1132,7 +1194,8 @@
         "district": "BEJA",
         "municipality": "SERPA",
         "yearOperational": 1998,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 15.6
       }
     },
     {
@@ -1150,7 +1213,8 @@
         "district": "CASTELO BRANCO",
         "municipality": "FUNDÃO",
         "yearOperational": 1992,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 2.4
       }
     },
     {
@@ -1168,7 +1232,8 @@
         "district": "BRAGANÇA",
         "municipality": "ALFÂNDEGA DA FÉ",
         "yearOperational": 1970,
-        "damType": "Terra homogénea"
+        "damType": "Terra homogénea",
+        "capacity": 1.4
       }
     },
     {
@@ -1186,7 +1251,8 @@
         "district": "VISEU",
         "municipality": "VISEU",
         "yearOperational": 1984,
-        "damType": "Arco Abóboda"
+        "damType": "Arco Abóboda",
+        "capacity": 44.1
       }
     },
     {
@@ -1204,7 +1270,8 @@
         "district": "BRAGANÇA",
         "municipality": "CARRAZEDA DE ANSIÃES",
         "yearOperational": 1988,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 2.9
       }
     },
     {
@@ -1222,7 +1289,8 @@
         "district": "SETÚBAL",
         "municipality": "SANTIAGO DO CACÉM",
         "yearOperational": 1979,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 11.5
       }
     },
     {
@@ -1240,7 +1308,8 @@
         "district": "PORTALEGRE",
         "municipality": "NISA",
         "yearOperational": 1973,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 806.2
       }
     },
     {
@@ -1258,7 +1327,8 @@
         "district": "VISEU",
         "municipality": "RESENDE",
         "yearOperational": 1955,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 17.6
       }
     },
     {
@@ -1276,7 +1346,8 @@
         "district": "ÉVORA",
         "municipality": "MONTEMOR-O-NOVO",
         "yearOperational": 1995,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 14
       }
     },
     {
@@ -1294,7 +1365,8 @@
         "district": "COIMBRA",
         "municipality": "ARGANIL",
         "yearOperational": 1985,
-        "damType": "Arco"
+        "damType": "Arco",
+        "capacity": 36.5
       }
     },
     {
@@ -1312,7 +1384,8 @@
         "district": "FARO",
         "municipality": "SILVES",
         "yearOperational": 1993,
-        "damType": "Abóboda"
+        "damType": "Abóboda",
+        "capacity": 41.7
       }
     },
     {
@@ -1330,7 +1403,8 @@
         "district": "ÉVORA",
         "municipality": "MORA",
         "yearOperational": 1959,
-        "damType": "Terra homogénea"
+        "damType": "Terra homogénea",
+        "capacity": 19.3
       }
     },
     {
@@ -1348,7 +1422,8 @@
         "district": "PORTALEGRE",
         "municipality": "CRATO",
         "yearOperational": 1980,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 14.5
       }
     },
     {
@@ -1366,7 +1441,8 @@
         "district": "ÉVORA",
         "municipality": "MORA",
         "yearOperational": 1960,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 67.3
       }
     },
     {
@@ -1384,7 +1460,8 @@
         "district": "BRAGA",
         "municipality": "GUIMARÃES",
         "yearOperational": 1941,
-        "damType": null
+        "damType": null,
+        "capacity": 16.6
       }
     },
     {
@@ -1402,7 +1479,8 @@
         "district": "BRAGANÇA",
         "municipality": "BRAGANÇA",
         "yearOperational": 1993,
-        "damType": "Terra homogénea"
+        "damType": "Terra homogénea",
+        "capacity": 3.8
       }
     },
     {
@@ -1420,7 +1498,8 @@
         "district": "BRAGANÇA",
         "municipality": "BRAGANÇA",
         "yearOperational": 1995,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 5.8
       }
     },
     {
@@ -1438,7 +1517,8 @@
         "district": "BEJA",
         "municipality": "BEJA",
         "yearOperational": 1965,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 11.1
       }
     },
     {
@@ -1456,7 +1536,8 @@
         "district": "BRAGA",
         "municipality": "VIEIRA DO MINHO",
         "yearOperational": 1938,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 17.1
       }
     },
     {
@@ -1474,7 +1555,8 @@
         "district": "BEJA",
         "municipality": "SERPA",
         "yearOperational": 1954,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 6.7
       }
     },
     {
@@ -1492,7 +1574,8 @@
         "district": "BEJA",
         "municipality": "SERPA",
         "yearOperational": 1955,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 4.7
       }
     },
     {
@@ -1510,7 +1593,8 @@
         "district": "CASTELO BRANCO",
         "municipality": "IDANHA-A-NOVA",
         "yearOperational": 1947,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 43
       }
     },
     {
@@ -1528,7 +1612,8 @@
         "district": "CASTELO BRANCO",
         "municipality": "FUNDÃO",
         "yearOperational": 1995,
-        "damType": null
+        "damType": null,
+        "capacity": 105.6
       }
     },
     {
@@ -1546,7 +1631,8 @@
         "district": "GUARDA",
         "municipality": "SEIA",
         "yearOperational": 1966,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 4.5
       }
     },
     {
@@ -1564,7 +1650,8 @@
         "district": "GUARDA",
         "municipality": "SEIA",
         "yearOperational": 1993,
-        "damType": "Enrocamento com cortina a montante"
+        "damType": "Enrocamento com cortina a montante",
+        "capacity": 3.6
       }
     },
     {
@@ -1582,7 +1669,8 @@
         "district": "ÉVORA",
         "municipality": "ALANDROAL",
         "yearOperational": 1982,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 34.1
       }
     },
     {
@@ -1600,7 +1688,8 @@
         "district": "SANTARÉM",
         "municipality": "SALVATERRA DE MAGOS",
         "yearOperational": 1938,
-        "damType": "Terra homogénea"
+        "damType": "Terra homogénea",
+        "capacity": 26.9
       }
     },
     {
@@ -1618,7 +1707,8 @@
         "district": "PORTALEGRE",
         "municipality": "AVIS",
         "yearOperational": 1957,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 95
       }
     },
     {
@@ -1636,7 +1726,8 @@
         "district": "CASTELO BRANCO",
         "municipality": "PENAMACOR",
         "yearOperational": 1985,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 17.6
       }
     },
     {
@@ -1654,7 +1745,8 @@
         "district": "ÉVORA",
         "municipality": "MONTEMOR-O-NOVO",
         "yearOperational": 2003,
-        "damType": "Terra homogénea"
+        "damType": "Terra homogénea",
+        "capacity": 15.3
       }
     },
     {
@@ -1672,7 +1764,8 @@
         "district": "BRAGANÇA",
         "municipality": "MIRANDA DO DOURO",
         "yearOperational": 1961,
-        "damType": "Contrafortes"
+        "damType": "Contrafortes",
+        "capacity": 549.3
       }
     },
     {
@@ -1690,7 +1783,8 @@
         "district": "PORTALEGRE",
         "municipality": "PONTE DE SOR",
         "yearOperational": 1958,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 86
       }
     },
     {
@@ -1708,7 +1802,8 @@
         "district": "BEJA",
         "municipality": "OURIQUE",
         "yearOperational": 1991,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 4.2
       }
     },
     {
@@ -1726,7 +1821,8 @@
         "district": "BEJA",
         "municipality": "OURIQUE",
         "yearOperational": 1991,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 8
       }
     },
     {
@@ -1744,7 +1840,8 @@
         "district": "ÉVORA",
         "municipality": "ÉVORA",
         "yearOperational": 1982,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 37
       }
     },
     {
@@ -1762,7 +1859,8 @@
         "district": "COIMBRA",
         "municipality": "GÓIS",
         "yearOperational": 1950,
-        "damType": null
+        "damType": null,
+        "capacity": 37.3
       }
     },
     {
@@ -1780,7 +1878,8 @@
         "district": "BEJA",
         "municipality": "OURIQUE",
         "yearOperational": 1972,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 25.1
       }
     },
     {
@@ -1798,7 +1897,8 @@
         "district": "BRAGANÇA",
         "municipality": "BRAGANÇA",
         "yearOperational": 1995,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 21
       }
     },
     {
@@ -1816,7 +1916,8 @@
         "district": "SETÚBAL",
         "municipality": "SINES",
         "yearOperational": 1980,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 8.2
       }
     },
     {
@@ -1834,7 +1935,8 @@
         "district": "ÉVORA",
         "municipality": "MOURÃO",
         "yearOperational": 1955,
-        "damType": null
+        "damType": null,
+        "capacity": 8.4
       }
     },
     {
@@ -1852,7 +1954,8 @@
         "district": "SANTARÉM",
         "municipality": "ABRANTES",
         "yearOperational": 1976,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 0.2
       }
     },
     {
@@ -1870,7 +1973,8 @@
         "district": "FARO",
         "municipality": "CASTRO MARIM",
         "yearOperational": 1997,
-        "damType": "Enrocamento com cortina a montante"
+        "damType": "Enrocamento com cortina a montante",
+        "capacity": 79.2
       }
     },
     {
@@ -1888,7 +1992,8 @@
         "district": "FARO",
         "municipality": "MONCHIQUE",
         "yearOperational": 2009,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 0
       }
     },
     {
@@ -1906,7 +2011,8 @@
         "district": "BEJA",
         "municipality": "FERREIRA DO ALENTEJO",
         "yearOperational": 1972,
-        "damType": "Abóbodas múltiplas"
+        "damType": "Abóbodas múltiplas",
+        "capacity": 33.2
       }
     },
     {
@@ -1924,7 +2030,8 @@
         "district": "PORTO",
         "municipality": "AMARANTE",
         "yearOperational": 1949,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 36.5
       }
     },
     {
@@ -1942,7 +2049,8 @@
         "district": "AVEIRO",
         "municipality": "VALE DE CAMBRA",
         "yearOperational": 1965,
-        "damType": null
+        "damType": null,
+        "capacity": 10.8
       }
     },
     {
@@ -1960,7 +2068,8 @@
         "district": "BRAGANÇA",
         "municipality": "TORRE DE MONCORVO",
         "yearOperational": 1992,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 2.6
       }
     },
     {
@@ -1978,7 +2087,8 @@
         "district": "VILA REAL",
         "municipality": "MONTALEGRE",
         "yearOperational": 1956,
-        "damType": "Enrocamento com cortina a montante"
+        "damType": "Enrocamento com cortina a montante",
+        "capacity": 17.4
       }
     },
     {
@@ -1996,7 +2106,8 @@
         "district": "SANTARÉM",
         "municipality": "ALPIARÇA",
         "yearOperational": 1984,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 5.3
       }
     },
     {
@@ -2014,7 +2125,8 @@
         "district": "BRAGANÇA",
         "municipality": "VILA FLOR",
         "yearOperational": 1973,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 2.2
       }
     },
     {
@@ -2032,7 +2144,8 @@
         "district": "CASTELO BRANCO",
         "municipality": "IDANHA-A-NOVA",
         "yearOperational": 1978,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 6.1
       }
     },
     {
@@ -2050,7 +2163,8 @@
         "district": "ÉVORA",
         "municipality": "ÉVORA",
         "yearOperational": 1953,
-        "damType": null
+        "damType": null,
+        "capacity": 22.9
       }
     },
     {
@@ -2068,7 +2182,8 @@
         "district": "BRAGA",
         "municipality": "BARCELOS",
         "yearOperational": 1951,
-        "damType": "Alvenaria"
+        "damType": "Alvenaria",
+        "capacity": 48
       }
     },
     {
@@ -2086,7 +2201,8 @@
         "district": "BRAGANÇA",
         "municipality": "MIRANDA DO DOURO",
         "yearOperational": 1958,
-        "damType": "Arco"
+        "damType": "Arco",
+        "capacity": 40.2
       }
     },
     {
@@ -2104,7 +2220,8 @@
         "district": "CASTELO BRANCO",
         "municipality": "CASTELO BRANCO",
         "yearOperational": 1968,
-        "damType": "Terra homogénea"
+        "damType": "Terra homogénea",
+        "capacity": 7.7
       }
     },
     {
@@ -2122,7 +2239,8 @@
         "district": "BRAGANÇA",
         "municipality": "TORRE DE MONCORVO",
         "yearOperational": 1982,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 349.2
       }
     },
     {
@@ -2140,7 +2258,8 @@
         "district": "PORTALEGRE",
         "municipality": "NISA",
         "yearOperational": 1932,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 7.8
       }
     },
     {
@@ -2158,7 +2277,8 @@
         "district": "SANTARÉM",
         "municipality": "MAÇÃO",
         "yearOperational": 1950,
-        "damType": "Contrafortes"
+        "damType": "Contrafortes",
+        "capacity": 45.8
       }
     },
     {
@@ -2176,7 +2296,8 @@
         "district": "SETÚBAL",
         "municipality": "ALCÁCER DO SAL",
         "yearOperational": 1949,
-        "damType": "Enrocamento com cortina a montante"
+        "damType": "Enrocamento com cortina a montante",
+        "capacity": 63.1
       }
     },
     {
@@ -2194,7 +2315,8 @@
         "district": "PORTALEGRE",
         "municipality": "CASTELO DE VIDE",
         "yearOperational": 1928,
-        "damType": "Arco Gravidade"
+        "damType": "Arco Gravidade",
+        "capacity": 30.9
       }
     },
     {
@@ -2212,7 +2334,8 @@
         "district": "BRAGA",
         "municipality": "FAFE",
         "yearOperational": 1993,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 10
       }
     },
     {
@@ -2230,7 +2353,8 @@
         "district": "COIMBRA",
         "municipality": "PENACOVA",
         "yearOperational": 1981,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 38.9
       }
     },
     {
@@ -2248,7 +2372,8 @@
         "district": "GUARDA",
         "municipality": "MÊDA",
         "yearOperational": 1986,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 17.6
       }
     },
     {
@@ -2266,7 +2391,8 @@
         "district": "BRAGANÇA",
         "municipality": "VINHAIS",
         "yearOperational": 2004,
-        "damType": "Arco Gravidade"
+        "damType": "Arco Gravidade",
+        "capacity": 60
       }
     },
     {
@@ -2284,7 +2410,8 @@
         "district": "LISBOA",
         "municipality": "CASCAIS",
         "yearOperational": 1969,
-        "damType": "Mistas de betão e aterro"
+        "damType": "Mistas de betão e aterro",
+        "capacity": 3
       }
     },
     {
@@ -2302,7 +2429,8 @@
         "district": "BEJA",
         "municipality": "ALJUSTREL",
         "yearOperational": 1967,
-        "damType": "Contrafortes"
+        "damType": "Contrafortes",
+        "capacity": 33.3
       }
     },
     {
@@ -2320,7 +2448,8 @@
         "district": "BRAGA",
         "municipality": "VILA VERDE",
         "yearOperational": 1928,
-        "damType": null
+        "damType": null,
+        "capacity": 27.5
       }
     },
     {
@@ -2338,7 +2467,8 @@
         "district": "VISEU",
         "municipality": "TONDELA",
         "yearOperational": 1973,
-        "damType": null
+        "damType": null,
+        "capacity": 11.5
       }
     },
     {
@@ -2356,7 +2486,8 @@
         "district": "VILA REAL",
         "municipality": "PESO DA RÉGUA",
         "yearOperational": 1973,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 63.1
       }
     },
     {
@@ -2374,7 +2505,8 @@
         "district": "LEIRIA",
         "municipality": "PENICHE",
         "yearOperational": 1993,
-        "damType": "Enrocamento com núcleo"
+        "damType": "Enrocamento com núcleo",
+        "capacity": 11.8
       }
     },
     {
@@ -2392,7 +2524,8 @@
         "district": "GUARDA",
         "municipality": "SABUGAL",
         "yearOperational": 2000,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 33
       }
     },
     {
@@ -2410,7 +2543,8 @@
         "district": "BRAGA",
         "municipality": "VIEIRA DO MINHO",
         "yearOperational": 1953,
-        "damType": "Arco Abóboda"
+        "damType": "Arco Abóboda",
+        "capacity": 23.6
       }
     },
     {
@@ -2428,7 +2562,8 @@
         "district": "BRAGANÇA",
         "municipality": "ALFÂNDEGA DA FÉ",
         "yearOperational": 1977,
-        "damType": "Terra homogénea"
+        "damType": "Terra homogénea",
+        "capacity": 5.4
       }
     },
     {
@@ -2446,7 +2581,8 @@
         "district": "BEJA",
         "municipality": "ODEMIRA",
         "yearOperational": 1968,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 64.1
       }
     },
     {
@@ -2464,7 +2600,8 @@
         "district": "GUARDA",
         "municipality": "FIGUEIRA DE CASTELO RODRIGO",
         "yearOperational": 1981,
-        "damType": "Terra homogénea"
+        "damType": "Terra homogénea",
+        "capacity": 32.2
       }
     },
     {
@@ -2482,7 +2619,8 @@
         "district": "BRAGANÇA",
         "municipality": "BRAGANÇA",
         "yearOperational": 1989,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 5.9
       }
     },
     {
@@ -2500,7 +2638,8 @@
         "district": "VILA REAL",
         "municipality": "VILA REAL",
         "yearOperational": 1997,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 15.3
       }
     },
     {
@@ -2518,7 +2657,8 @@
         "district": "GUARDA",
         "municipality": "PINHEL",
         "yearOperational": 1993,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 28.4
       }
     },
     {
@@ -2536,7 +2676,8 @@
         "district": "COIMBRA",
         "municipality": "PAMPILHOSA DA SERRA",
         "yearOperational": 1942,
-        "damType": "Arco"
+        "damType": "Arco",
+        "capacity": 14.7
       }
     },
     {
@@ -2554,7 +2695,8 @@
         "district": "CASTELO BRANCO",
         "municipality": "CASTELO BRANCO",
         "yearOperational": 1991,
-        "damType": "Terra homogénea"
+        "damType": "Terra homogénea",
+        "capacity": 16.7
       }
     },
     {
@@ -2572,7 +2714,8 @@
         "district": "BRAGA",
         "municipality": "FAFE",
         "yearOperational": 1972,
-        "damType": null
+        "damType": null,
+        "capacity": 13.8
       }
     },
     {
@@ -2590,7 +2733,8 @@
         "district": "BEJA",
         "municipality": "MÉRTOLA",
         "yearOperational": 1882,
-        "damType": "Mistas de betão e aterro"
+        "damType": "Mistas de betão e aterro",
+        "capacity": 10.4
       }
     },
     {
@@ -2608,7 +2752,8 @@
         "district": "BEJA",
         "municipality": "MÉRTOLA",
         "yearOperational": 1884,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 3
       }
     },
     {
@@ -2626,7 +2771,8 @@
         "district": "GUARDA",
         "municipality": "MÊDA",
         "yearOperational": 1995,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 8.8
       }
     },
     {
@@ -2644,7 +2790,8 @@
         "district": "VILA REAL",
         "municipality": "VILA REAL",
         "yearOperational": 1993,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 17.2
       }
     },
     {
@@ -2662,7 +2809,8 @@
         "district": "PORTO",
         "municipality": "MARCO DE CANAVESES",
         "yearOperational": 1988,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 53.6
       }
     },
     {
@@ -2680,7 +2828,8 @@
         "district": "CASTELO BRANCO",
         "municipality": "IDANHA-A-NOVA",
         "yearOperational": 1979,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 10.2
       }
     },
     {
@@ -2698,7 +2847,8 @@
         "district": "VIANA DO CASTELO",
         "municipality": "PONTE DA BARCA",
         "yearOperational": 1993,
-        "damType": "Gravidade de betão aligeirada"
+        "damType": "Gravidade de betão aligeirada",
+        "capacity": 22.8
       }
     },
     {
@@ -2716,7 +2866,8 @@
         "district": "BRAGANÇA",
         "municipality": "TORRE DE MONCORVO",
         "yearOperational": 1993,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 2.3
       }
     },
     {
@@ -2734,7 +2885,8 @@
         "district": "BEJA",
         "municipality": "MÉRTOLA",
         "yearOperational": 1955,
-        "damType": "Terra"
+        "damType": "Terra",
+        "capacity": 1.5
       }
     },
     {
@@ -2752,7 +2904,8 @@
         "district": "ÉVORA",
         "municipality": "VENDAS NOVAS",
         "yearOperational": 1939,
-        "damType": "Terra homogénea"
+        "damType": "Terra homogénea",
+        "capacity": 20.7
       }
     },
     {
@@ -2770,7 +2923,8 @@
         "district": "SETÚBAL",
         "municipality": "ALCÁCER DO SAL",
         "yearOperational": 1949,
-        "damType": "Enrocamento"
+        "damType": "Enrocamento",
+        "capacity": 27.7
       }
     },
     {
@@ -2788,7 +2942,8 @@
         "district": "GUARDA",
         "municipality": "GOUVEIA",
         "yearOperational": 1956,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 3.9
       }
     },
     {
@@ -2806,7 +2961,8 @@
         "district": "VISEU",
         "municipality": "SÃO JOÃO DA PESQUEIRA",
         "yearOperational": 1975,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 66.7
       }
     },
     {
@@ -2824,7 +2980,8 @@
         "district": "VISEU",
         "municipality": "LAMEGO",
         "yearOperational": 1934,
-        "damType": "Arco Abóboda"
+        "damType": "Arco Abóboda",
+        "capacity": 33.7
       }
     },
     {
@@ -2842,7 +2999,8 @@
         "district": "BRAGA",
         "municipality": "VIEIRA DO MINHO",
         "yearOperational": 1951,
-        "damType": "Gravidade de betão"
+        "damType": "Gravidade de betão",
+        "capacity": 21.8
       }
     },
     {
@@ -2860,7 +3018,8 @@
         "district": "SETÚBAL",
         "municipality": "ALCOCHETE",
         "yearOperational": 1957,
-        "damType": "Terra homogénea"
+        "damType": "Terra homogénea",
+        "capacity": 29.3
       }
     },
     {
@@ -2878,7 +3037,8 @@
         "district": "ÉVORA",
         "municipality": "REDONDO",
         "yearOperational": 1981,
-        "damType": "Terra zonada"
+        "damType": "Terra zonada",
+        "capacity": 18.9
       }
     },
     {
@@ -2896,7 +3056,8 @@
         "district": "VISEU",
         "municipality": "SERNANCELHE",
         "yearOperational": 1965,
-        "damType": "Enrocamento com cortina a montante"
+        "damType": "Enrocamento com cortina a montante",
+        "capacity": 39.6
       }
     },
     {
@@ -2914,7 +3075,8 @@
         "district": "BRAGA",
         "municipality": "TERRAS DE BOURO",
         "yearOperational": 1972,
-        "damType": "Abóboda"
+        "damType": "Abóboda",
+        "capacity": 17.8
       }
     }
   ]

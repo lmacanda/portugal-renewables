@@ -9,6 +9,7 @@ interface DamRow {
   concelho: string;
   ano_ifunc: number;
   tipo_barra: string;
+  compax_lag: number;
   longdd: number;
   latdd: number;
 }
@@ -39,7 +40,8 @@ const features = (rows as DamRow[])
     district: row.distrito,
     municipality: row.concelho,
     yearOperational: row.ano_ifunc,
-    damType: row.tipo_barra,// TODO: which fields do you want available later (in popups etc.)?
+    damType: row.tipo_barra,// 
+    capacity: row.compax_lag,
     },
   }));
 

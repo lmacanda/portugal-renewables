@@ -11,5 +11,6 @@ export interface DamFeature {
     municipality: string;
     yearOperational: number;
     damType: string;
+    capacity: number;
   };
 }
