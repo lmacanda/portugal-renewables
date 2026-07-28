@@ -1,0 +1,532 @@
+[
+  {
+    "name": "Alqueva",
+    "mwCapacity": 240,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Alqueva_Dez2004_1.jpg"
+  },
+  {
+    "name": "Alto Cávado",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/AltoCavado3_0_0.jpg"
+  },
+  {
+    "name": "Alto Lindoso",
+    "mwCapacity": 630,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/AltoLindoso_1.jpg"
+  },
+  {
+    "name": "Alto Rabagão",
+    "mwCapacity": 68,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/AltoRabagao1_1.jpg"
+  },
+  {
+    "name": "Alvito",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Alvito_1.jpg"
+  },
+  {
+    "name": "Andorinhas",
+    "mwCapacity": 8.8,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Andorinhas_2.jpg"
+  },
+  {
+    "name": "Apartadura",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Apartadura_1.jpg"
+  },
+  {
+    "name": "Arade",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/ARADE_0.jpg"
+  },
+  {
+    "name": "Arcossó",
+    "mwCapacity": null,
+    "imageUrl": null
+  },
+  {
+    "name": "Azibo",
+    "mwCapacity": null,
+    "imageUrl": null
+  },
+  {
+    "name": "Abrilongo",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Abrilongo_2.jpg"
+  },
+  {
+    "name": "Aguieira",
+    "mwCapacity": 270,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Aguieira1_1.jpg"
+  },
+  {
+    "name": "Alcoutim",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Alcoutim_1.jpg"
+  },
+  {
+    "name": "Alijó (Vila Chã)",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Alijo1_1.jpg"
+  },
+  {
+    "name": "Açude- Ponte de Coimbra",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Coimbra_0.jpg"
+  },
+  {
+    "name": "Bastêlos",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Bastelos.jpg"
+  },
+  {
+    "name": "Beliche",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Beliche_0.jpg"
+  },
+  {
+    "name": "Belver",
+    "mwCapacity": 80.7,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Belver_0.jpg"
+  },
+  {
+    "name": "Bemposta",
+    "mwCapacity": 210,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Bemposta.jpg"
+  },
+  {
+    "name": "Bouçã",
+    "mwCapacity": 50,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Bouca_0.jpg"
+  },
+  {
+    "name": "Burga",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Burga_0.jpg"
+  },
+  {
+    "name": "Burgães",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Burgaes_0.jpg"
+  },
+  {
+    "name": "Cabril",
+    "mwCapacity": 97,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Cabril_0.jpg"
+  },
+  {
+    "name": "Caia",
+    "mwCapacity": 0.6,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Caia_0.jpg"
+  },
+  {
+    "name": "Caldeirão",
+    "mwCapacity": 32,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Caldeirao_0.jpg"
+  },
+  {
+    "name": "Camba",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Camba_0.jpg"
+  },
+  {
+    "name": "Campilhas",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Campilhas_0.jpg"
+  },
+  {
+    "name": "Caniçada",
+    "mwCapacity": 60,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Canicada_0.jpg"
+  },
+  {
+    "name": "Capinha",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Capinha.jpg"
+  },
+  {
+    "name": "Carrapatelo",
+    "mwCapacity": 201,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Carrapatelo_0.jpg"
+  },
+  {
+    "name": "Corgas",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Corgas_0.jpg"
+  },
+  {
+    "name": "Corte Brique",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Corte_Brique4_0.jpg"
+  },
+  {
+    "name": "Cova do Viriato",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/CovadoViriato_0.jpg"
+  },
+  {
+    "name": "Covão do Ferro",
+    "mwCapacity": 1.2,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Captura%20de%20ecr%C3%A3%202024-04-16%20164228_0.png"
+  },
+  {
+    "name": "Covão do Meio",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/CovaodoMeio_0.jpg"
+  },
+  {
+    "name": "Crestuma-Lever",
+    "mwCapacity": 108,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Crestuma_0.jpg"
+  },
+  {
+    "name": "Daroeira",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Daroeira_0.jpg"
+  },
+  {
+    "name": "Divor",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Divor1_0.jpg"
+  },
+  {
+    "name": "Enxoé",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Enxoe_0.jpg"
+  },
+  {
+    "name": "Fagilde",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Fagilde1_0.jpg"
+  },
+  {
+    "name": "Fonte Longa",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/FonteLonga_2000Jul_0.jpg"
+  },
+  {
+    "name": "Fonte Serne",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/FonteSerne1_0.jpg"
+  },
+  {
+    "name": "Fratel",
+    "mwCapacity": 130,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Fratel_0.jpg"
+  },
+  {
+    "name": "Freigil",
+    "mwCapacity": 4.6,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Freigil_0.jpg"
+  },
+  {
+    "name": "Freixeirinha",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/freixei%20%281%29_0.jpeg"
+  },
+  {
+    "name": "Fronhas",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Imagem%20005_0.jpg"
+  },
+  {
+    "name": "Funcho",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Funcho4.jpg"
+  },
+  {
+    "name": "Furadouro",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Furadouro1_0.jpg"
+  },
+  {
+    "name": "Gameiro",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Gameiro1_0.jpg"
+  },
+  {
+    "name": "Gostei",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Gostei_0.jpg"
+  },
+  {
+    "name": "Grous",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Grous_0.jpg"
+  },
+  {
+    "name": "Guilhofrei",
+    "mwCapacity": 4.6,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Guilhofrei_0.jpg"
+  },
+  {
+    "name": "Idanha",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Idanha_0.jpg"
+  },
+  {
+    "name": "Lagoa Comprida",
+    "mwCapacity": 13.2,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/LagoaComprida_0.jpg"
+  },
+  {
+    "name": "Lagoacho",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Lagoacho_0.jpg"
+  },
+  {
+    "name": "Lucefecit",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Lucefecit_0.jpg"
+  },
+  {
+    "name": "Magos (Paúl Magos)",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Magos2.jpg"
+  },
+  {
+    "name": "Maranhão",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Maranhao_0.jpg"
+  },
+  {
+    "name": "Meimoa",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Meimoa_0.jpg"
+  },
+  {
+    "name": "Minutos",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Minutos_0.jpg"
+  },
+  {
+    "name": "Miranda",
+    "mwCapacity": 390,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Miranda_0.jpg"
+  },
+  {
+    "name": "Montargil",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Montargil_0.jpg"
+  },
+  {
+    "name": "Monte Novo",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/MonteNovo2_0.jpg"
+  },
+  {
+    "name": "Monte da Rocha",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/MontedaRocha1.jpg"
+  },
+  {
+    "name": "Morgavel",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Morgavel_0.jpg"
+  },
+  {
+    "name": "Odeleite",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Odeleite_0.jpg"
+  },
+  {
+    "name": "Odelouca",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Odelouca_foto1_0.jpg"
+  },
+  {
+    "name": "Odivelas",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Odivelas1_0.jpg"
+  },
+  {
+    "name": "Paradela",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Paradela.JPG"
+  },
+  {
+    "name": "Peneireiro",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/20211019_142359.jpg"
+  },
+  {
+    "name": "Penha Garcia",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Penha%20Garcia%2002%20Dez%202.jpg"
+  },
+  {
+    "name": "Penide",
+    "mwCapacity": 4.8,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Penide_0.jpg"
+  },
+  {
+    "name": "Picote",
+    "mwCapacity": 180,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/IMG_20230601_095645.jpg"
+  },
+  {
+    "name": "Pisco",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/piscoddd.jpg"
+  },
+  {
+    "name": "Pocinho",
+    "mwCapacity": 186,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/IMG_8487.JPG"
+  },
+  {
+    "name": "Poio",
+    "mwCapacity": 1.5,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/20211027_121649.jpg"
+  },
+  {
+    "name": "Pracana",
+    "mwCapacity": 40,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Pracana.JPG"
+  },
+  {
+    "name": "Pêgo do Altar",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Pego%20do%20Altar_descarregador.jpg"
+  },
+  {
+    "name": "Póvoa",
+    "mwCapacity": 0.74,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/20220621_120354.jpg"
+  },
+  {
+    "name": "Queimadela",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/20220706_145600.jpg"
+  },
+  {
+    "name": "Raiva",
+    "mwCapacity": 20,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Raiva.JPG"
+  },
+  {
+    "name": "Ranhados",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/20240131_153205.jpg"
+  },
+  {
+    "name": "Rebordelo",
+    "mwCapacity": 8.75,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/barr4.jpg"
+  },
+  {
+    "name": "Rio da Mula",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/riodamula1_0.JPG"
+  },
+  {
+    "name": "Roxo",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/132_3270.JPG"
+  },
+  {
+    "name": "Régua",
+    "mwCapacity": 156,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/IMG_8566.JPG"
+  },
+  {
+    "name": "S. Domingos",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/SDomingos_0.JPG"
+  },
+  {
+    "name": "Sabugal",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Sabugal1_0.jpg"
+  },
+  {
+    "name": "Salamonde",
+    "mwCapacity": 42,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/20240221_142607.jpg"
+  },
+  {
+    "name": "Salgueiro",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Salgueiro.jpg"
+  },
+  {
+    "name": "Santa Clara",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/santa%20clara_mira3.jpg"
+  },
+  {
+    "name": "Santa Maria de Aguiar",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/SantaMAguiar_0.jpg"
+  },
+  {
+    "name": "Serra Serrada",
+    "mwCapacity": 3.4,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/IMG_0103_0.JPG"
+  },
+  {
+    "name": "Sordo",
+    "mwCapacity": 10,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Sordo%201_0.jpg"
+  },
+  {
+    "name": "Teja",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/e.jpg"
+  },
+  {
+    "name": "Torrão",
+    "mwCapacity": 146,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Torrao111.jpg"
+  },
+  {
+    "name": "Touliça",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/toulica.jpg"
+  },
+  {
+    "name": "Touvedo",
+    "mwCapacity": 22,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Touvedo_0.JPG"
+  },
+  {
+    "name": "Vale do Gaio",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/ValedoGaio1.jpg"
+  },
+  {
+    "name": "Vale do Rossim",
+    "mwCapacity": 10,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/ValedoRossim_0.JPG"
+  },
+  {
+    "name": "Valeira",
+    "mwCapacity": 216,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/douro%201441.jpg"
+  },
+  {
+    "name": "Varosa",
+    "mwCapacity": 24.7,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/IMG_20240404_103020.jpg"
+  },
+  {
+    "name": "Venda Nova (Rabagão)",
+    "mwCapacity": 144,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/IMG_6402.JPEG"
+  },
+  {
+    "name": "Venda Velha",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Captura%20de%20ecr%C3%A3%202024-05-28%20124656_0.png"
+  },
+  {
+    "name": "Vigia",
+    "mwCapacity": null,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Vigia_0.jpg"
+  },
+  {
+    "name": "Vilarinho das Furnas",
+    "mwCapacity": 125,
+    "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/VilarinhodasFurnas_0.jpg"
+  }
+]

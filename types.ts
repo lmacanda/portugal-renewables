@@ -12,5 +12,7 @@ export interface DamFeature {
     yearOperational: number;
     damType: string;
     capacity: number;
+    imageUrl?: string | null;
+    mwCapacity?: number | null;
   };
 }

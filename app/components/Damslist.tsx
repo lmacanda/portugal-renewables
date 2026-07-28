@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { DamFeature } from "@/types";
+import Image from "next/image";
 
 export default function DamsList() {
   const [dams, setDams] = useState<DamFeature[]>([]);
@@ -13,8 +14,11 @@ export default function DamsList() {
         const sorted = [...geojson.features].sort(
           (a, b) => b.properties.capacity - a.properties.capacity
         );
+        
         setDams(sorted);
+        console.log(geojson.features.map((f: DamFeature) => f.properties.imageUrl));
       });
+      
   }, []);
 
   return (
@@ -46,33 +50,48 @@ export default function DamsList() {
         <span style={{ flex: 1, textAlign: "right" }}>Capacity</span>
       </div>
 
-      {dams.map((dam) => (
-        <div
-          key={dam.properties.name}
-          style={{
-            display: "flex",
-            alignItems: "center",
-            padding: "10px 14px",
-            borderBottom: "1px solid rgba(255,255,255,0.08)",
-            cursor: "pointer",
-            fontSize: "13px",
-          }}
-          onMouseEnter={(e) => {
-            e.currentTarget.style.background = "rgba(55,138,221,0.15)";
-          }}
-          onMouseLeave={(e) => {
-            e.currentTarget.style.background = "transparent";
-          }}
-        >
-          <span style={{ flex: 2, color: "rgb(0 35 134)" }}>{dam.properties.name}</span>
-          <span style={{ flex: 1, color: "black", marginTop: "2px", fontWeight: 700, fontSize: "11px" }}>
-            {dam.properties.damType}
-          </span>
-          <span style={{ flex: 1, textAlign: "right", color: "#898781", fontSize: "11px" }}>
-            {dam.properties.capacity} hm³
-          </span>
-        </div>
-      ))}
+{dams.map((dam) => (
+      <div
+        key={dam.properties.name}
+        style={{
+          display: "flex",
+          alignItems: "center",
+          padding: "10px 14px",
+          borderBottom: "1px solid rgba(255,255,255,0.08)",
+          cursor: "pointer",
+          fontSize: "13px",
+        }}
+        onMouseEnter={(e) => {
+          e.currentTarget.style.background = "rgba(55,138,221,0.15)";
+        }}
+        onMouseLeave={(e) => {
+          e.currentTarget.style.background = "transparent";
+        }}
+      >
+        {dam.properties.imageUrl && (
+          <Image
+    src={dam.properties.imageUrl}
+    alt={dam.properties.name}
+    width={36}
+    height={36}
+    style={{
+      borderRadius: "4px",
+      objectFit: "cover",
+      marginRight: "10px",
+      flexShrink: 0,
+    }}
+          />
+        )}
+
+        <span style={{ flex: 2, color: "rgb(0 35 134)" }}>{dam.properties.name}</span>
+        <span style={{ flex: 1, color: "black", marginTop: "2px", fontWeight: 700, fontSize: "11px" }}>
+          {dam.properties.damType}
+        </span>
+        <span style={{ flex: 1, textAlign: "right", color: "#898781", fontSize: "11px" }}>
+          {dam.properties.capacity} hm³
+        </span>
+      </div>
+    ))}
     </div>
   );
 }

@@ -17,7 +17,9 @@
         "municipality": "MOURA",
         "yearOperational": 2002,
         "damType": "Abóboda",
-        "capacity": 748.3
+        "capacity": 748.3,
+        "mwCapacity": 240,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Alqueva_Dez2004_1.jpg"
       }
     },
     {
@@ -36,7 +38,9 @@
         "municipality": "PAMPILHOSA DA SERRA",
         "yearOperational": 1949,
         "damType": "Abóboda",
-        "capacity": 10.5
+        "capacity": 10.5,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -55,7 +59,9 @@
         "municipality": "MONTALEGRE",
         "yearOperational": 1964,
         "damType": "Gravidade de betão",
-        "capacity": 21.6
+        "capacity": 21.6,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/AltoCavado3_0_0.jpg"
       }
     },
     {
@@ -74,7 +80,9 @@
         "municipality": "ARCOS DE VALDEVEZ",
         "yearOperational": 1992,
         "damType": "Arco Abóboda",
-        "capacity": 81.5
+        "capacity": 81.5,
+        "mwCapacity": 630,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/AltoLindoso_1.jpg"
       }
     },
     {
@@ -93,7 +101,9 @@
         "municipality": "MONTALEGRE",
         "yearOperational": 1964,
         "damType": "Abóboda",
-        "capacity": 18.6
+        "capacity": 18.6,
+        "mwCapacity": 68,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/AltoRabagao1_1.jpg"
       }
     },
     {
@@ -112,7 +122,9 @@
         "municipality": "CUBA",
         "yearOperational": 1977,
         "damType": "Terra zonada",
-        "capacity": 23.1
+        "capacity": 23.1,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Alvito_1.jpg"
       }
     },
     {
@@ -131,7 +143,9 @@
         "municipality": "GUIMARÃES",
         "yearOperational": 1945,
         "damType": "Gravidade de betão",
-        "capacity": 8.7
+        "capacity": 8.7,
+        "mwCapacity": 8.8,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Andorinhas_2.jpg"
       }
     },
     {
@@ -150,7 +164,9 @@
         "municipality": "MARVÃO",
         "yearOperational": 1993,
         "damType": "Enrocamento com cortina a montante",
-        "capacity": 5.9
+        "capacity": 5.9,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Apartadura_1.jpg"
       }
     },
     {
@@ -169,7 +185,9 @@
         "municipality": "SILVES",
         "yearOperational": 1956,
         "damType": "Terra zonada",
-        "capacity": 5.9
+        "capacity": 5.9,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/ARADE_0.jpg"
       }
     },
     {
@@ -188,7 +206,9 @@
         "municipality": "CHAVES",
         "yearOperational": 1999,
         "damType": "Enrocamento com cortina a montante",
-        "capacity": 9.8
+        "capacity": 9.8,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -207,7 +227,9 @@
         "municipality": "FREIXO DE ESPADA À CINTA",
         "yearOperational": 1992,
         "damType": "Terra",
-        "capacity": 2.5
+        "capacity": 2.5,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -226,7 +248,9 @@
         "municipality": "MACEDO DE CAVALEIROS",
         "yearOperational": 1982,
         "damType": "Terra zonada",
-        "capacity": 18
+        "capacity": 18,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -245,7 +269,9 @@
         "municipality": "CAMPO MAIOR",
         "yearOperational": 2000,
         "damType": "Terra",
-        "capacity": 22.5
+        "capacity": 22.5,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Abrilongo_2.jpg"
       }
     },
     {
@@ -264,7 +290,9 @@
         "municipality": "MORTÁGUA",
         "yearOperational": 1981,
         "damType": "Arcos Múltiplos",
-        "capacity": 122.7
+        "capacity": 122.7,
+        "mwCapacity": 270,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Aguieira1_1.jpg"
       }
     },
     {
@@ -283,7 +311,9 @@
         "municipality": "ALCOUTIM",
         "yearOperational": 1995,
         "damType": "Enrocamento com núcleo",
-        "capacity": 12.2
+        "capacity": 12.2,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Alcoutim_1.jpg"
       }
     },
     {
@@ -302,7 +332,9 @@
         "municipality": "ALIJÓ",
         "yearOperational": 1991,
         "damType": "Terra zonada",
-        "capacity": 5.8
+        "capacity": 5.8,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Alijo1_1.jpg"
       }
     },
     {
@@ -321,7 +353,9 @@
         "municipality": "GUARDA",
         "yearOperational": 1938,
         "damType": "Alvenaria",
-        "capacity": 37.1
+        "capacity": 37.1,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -340,7 +374,9 @@
         "municipality": "TONDELA",
         "yearOperational": 1927,
         "damType": "Alvenaria",
-        "capacity": 18.6
+        "capacity": 18.6,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -359,7 +395,9 @@
         "municipality": "TÁBUA",
         "yearOperational": 1939,
         "damType": "Alvenaria",
-        "capacity": 56.1
+        "capacity": 56.1,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -378,7 +416,9 @@
         "municipality": "SEIA",
         "yearOperational": 1940,
         "damType": "Alvenaria",
-        "capacity": 6.2
+        "capacity": 6.2,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -397,7 +437,9 @@
         "municipality": "SERPA",
         "yearOperational": 2005,
         "damType": "Gravidade de betão",
-        "capacity": 193.8
+        "capacity": 193.8,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -416,7 +458,9 @@
         "municipality": "SEIA",
         "yearOperational": 1966,
         "damType": "Alvenaria",
-        "capacity": 1.1
+        "capacity": 1.1,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -435,7 +479,9 @@
         "municipality": "SEIA",
         "yearOperational": 1937,
         "damType": "Alvenaria",
-        "capacity": 3.9
+        "capacity": 3.9,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -454,7 +500,9 @@
         "municipality": "SEIA",
         "yearOperational": 1959,
         "damType": "Alvenaria",
-        "capacity": 15.2
+        "capacity": 15.2,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -473,7 +521,9 @@
         "municipality": "COIMBRA",
         "yearOperational": 1981,
         "damType": "Açude móvel (com comportas)",
-        "capacity": 58.3
+        "capacity": 58.3,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Coimbra_0.jpg"
       }
     },
     {
@@ -492,7 +542,9 @@
         "municipality": "MOGADOURO",
         "yearOperational": 1993,
         "damType": "Enrocamento drenante",
-        "capacity": 10
+        "capacity": 10,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Bastelos.jpg"
       }
     },
     {
@@ -511,7 +563,9 @@
         "municipality": "CASTRO MARIM",
         "yearOperational": 1986,
         "damType": "Enrocamento com núcleo",
-        "capacity": 32.3
+        "capacity": 32.3,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Beliche_0.jpg"
       }
     },
     {
@@ -530,7 +584,9 @@
         "municipality": "GAVIÃO",
         "yearOperational": 1952,
         "damType": "Gravidade de betão",
-        "capacity": 35.3
+        "capacity": 35.3,
+        "mwCapacity": 80.7,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Belver_0.jpg"
       }
     },
     {
@@ -549,7 +605,9 @@
         "municipality": "MOGADOURO",
         "yearOperational": 1964,
         "damType": "Gravidade de betão",
-        "capacity": 28
+        "capacity": 28,
+        "mwCapacity": 210,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Bemposta.jpg"
       }
     },
     {
@@ -568,7 +626,9 @@
         "municipality": "PEDRÓGÃO GRANDE",
         "yearOperational": 1955,
         "damType": "Abóboda",
-        "capacity": 44.4
+        "capacity": 44.4,
+        "mwCapacity": 50,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Bouca_0.jpg"
       }
     },
     {
@@ -587,7 +647,9 @@
         "municipality": "LAGOS",
         "yearOperational": 1958,
         "damType": "Arco",
-        "capacity": 16.6
+        "capacity": 16.6,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -606,7 +668,9 @@
         "municipality": "BARRANCOS",
         "yearOperational": 1983,
         "damType": "Gravidade de betão",
-        "capacity": 69.3
+        "capacity": 69.3,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -625,7 +689,9 @@
         "municipality": "VILA FLOR",
         "yearOperational": 1978,
         "damType": "Terra homogénea",
-        "capacity": 7.9
+        "capacity": 7.9,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Burga_0.jpg"
       }
     },
     {
@@ -644,7 +710,9 @@
         "municipality": "OLIVEIRA DE AZEMÉIS",
         "yearOperational": 1940,
         "damType": "Alvenaria",
-        "capacity": 7.5
+        "capacity": 7.5,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Burgaes_0.jpg"
       }
     },
     {
@@ -663,7 +731,9 @@
         "municipality": "PEDRÓGÃO GRANDE",
         "yearOperational": 1954,
         "damType": "Abóboda",
-        "capacity": 79.6
+        "capacity": 79.6,
+        "mwCapacity": 97,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Cabril_0.jpg"
       }
     },
     {
@@ -682,7 +752,9 @@
         "municipality": "MIRANDELA",
         "yearOperational": 1972,
         "damType": "Terra",
-        "capacity": 0.4
+        "capacity": 0.4,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -701,7 +773,9 @@
         "municipality": "ELVAS",
         "yearOperational": 1967,
         "damType": "Contrafortes",
-        "capacity": 57.5
+        "capacity": 57.5,
+        "mwCapacity": 0.6,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Caia_0.jpg"
       }
     },
     {
@@ -720,7 +794,9 @@
         "municipality": "GUARDA",
         "yearOperational": 1993,
         "damType": "Arco",
-        "capacity": 10.9
+        "capacity": 10.9,
+        "mwCapacity": 32,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Caldeirao_0.jpg"
       }
     },
     {
@@ -739,7 +815,9 @@
         "municipality": "ALFÂNDEGA DA FÉ",
         "yearOperational": 1993,
         "damType": "Terra zonada",
-        "capacity": 6.2
+        "capacity": 6.2,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Camba_0.jpg"
       }
     },
     {
@@ -758,7 +836,9 @@
         "municipality": "SANTIAGO DO CACÉM",
         "yearOperational": 1954,
         "damType": "Terra zonada com cortina",
-        "capacity": 16.3
+        "capacity": 16.3,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Campilhas_0.jpg"
       }
     },
     {
@@ -777,7 +857,9 @@
         "municipality": "VIEIRA DO MINHO",
         "yearOperational": 1955,
         "damType": "Arco",
-        "capacity": 27.3
+        "capacity": 27.3,
+        "mwCapacity": 60,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Canicada_0.jpg"
       }
     },
     {
@@ -796,7 +878,9 @@
         "municipality": "FUNDÃO",
         "yearOperational": 1981,
         "damType": "Terra homogénea",
-        "capacity": 3.3
+        "capacity": 3.3,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Capinha.jpg"
       }
     },
     {
@@ -815,7 +899,9 @@
         "municipality": "CINFÃES",
         "yearOperational": 1972,
         "damType": "Gravidade de betão",
-        "capacity": 69.8
+        "capacity": 69.8,
+        "mwCapacity": 201,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Carrapatelo_0.jpg"
       }
     },
     {
@@ -834,7 +920,9 @@
         "municipality": "MACEDO DE CAVALEIROS",
         "yearOperational": 1971,
         "damType": "Terra",
-        "capacity": 11.3
+        "capacity": 11.3,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -853,7 +941,9 @@
         "municipality": "TORRE DE MONCORVO",
         "yearOperational": 1984,
         "damType": "Terra zonada",
-        "capacity": 3.2
+        "capacity": 3.2,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -872,7 +962,9 @@
         "municipality": "TOMAR",
         "yearOperational": 1951,
         "damType": "Gravidade de betão",
-        "capacity": 111.6
+        "capacity": 111.6,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -891,7 +983,9 @@
         "municipality": "MONTEMOR-O-NOVO",
         "yearOperational": 1977,
         "damType": "Terra",
-        "capacity": 2
+        "capacity": 2,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -910,7 +1004,9 @@
         "municipality": "OLEIROS",
         "yearOperational": 1991,
         "damType": "Gravidade de betão",
-        "capacity": 11.6
+        "capacity": 11.6,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Corgas_0.jpg"
       }
     },
     {
@@ -929,7 +1025,9 @@
         "municipality": "ODEMIRA",
         "yearOperational": 1993,
         "damType": "Terra homogénea",
-        "capacity": 9.4
+        "capacity": 9.4,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Corte_Brique4_0.jpg"
       }
     },
     {
@@ -948,7 +1046,9 @@
         "municipality": "COVILHÃ",
         "yearOperational": 1982,
         "damType": "Gravidade de betão",
-        "capacity": 2.5
+        "capacity": 2.5,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/CovadoViriato_0.jpg"
       }
     },
     {
@@ -967,7 +1067,9 @@
         "municipality": "VILA NOVA DE CERVEIRA",
         "yearOperational": 1976,
         "damType": "Gravidade de betão",
-        "capacity": 29
+        "capacity": 29,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -986,7 +1088,9 @@
         "municipality": "SEIA",
         "yearOperational": 1955,
         "damType": "Arco Gravidade",
-        "capacity": 0.1
+        "capacity": 0.1,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1005,7 +1109,9 @@
         "municipality": "SEIA",
         "yearOperational": 1945,
         "damType": "Alvenaria",
-        "capacity": 1.8
+        "capacity": 1.8,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1024,7 +1130,9 @@
         "municipality": "COVILHÃ",
         "yearOperational": 1956,
         "damType": "Gravidade de betão",
-        "capacity": 2.4
+        "capacity": 2.4,
+        "mwCapacity": 1.2,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Captura%20de%20ecr%C3%A3%202024-04-16%20164228_0.png"
       }
     },
     {
@@ -1043,7 +1151,9 @@
         "municipality": "SEIA",
         "yearOperational": 1966,
         "damType": "Gravidade de betão",
-        "capacity": 0.7
+        "capacity": 0.7,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1062,7 +1172,9 @@
         "municipality": "SEIA",
         "yearOperational": 1953,
         "damType": "Gravidade de betão",
-        "capacity": 2.9
+        "capacity": 2.9,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/CovaodoMeio_0.jpg"
       }
     },
     {
@@ -1081,7 +1193,9 @@
         "municipality": "SEIA",
         "yearOperational": 1955,
         "damType": "Alvenaria",
-        "capacity": 0.8
+        "capacity": 0.8,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1100,7 +1214,9 @@
         "municipality": "SEIA",
         "yearOperational": 1955,
         "damType": "Gravidade de betão",
-        "capacity": 2.4
+        "capacity": 2.4,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1119,7 +1235,9 @@
         "municipality": "CRATO",
         "yearOperational": 1965,
         "damType": "Terra",
-        "capacity": 1.4
+        "capacity": 1.4,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1138,7 +1256,9 @@
         "municipality": "GONDOMAR",
         "yearOperational": 1985,
         "damType": "Gravidade de betão",
-        "capacity": 52.5
+        "capacity": 52.5,
+        "mwCapacity": 108,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Crestuma_0.jpg"
       }
     },
     {
@@ -1157,7 +1277,9 @@
         "municipality": "SANTIAGO DO CACÉM",
         "yearOperational": 1953,
         "damType": "Terra",
-        "capacity": 15.7
+        "capacity": 15.7,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Daroeira_0.jpg"
       }
     },
     {
@@ -1176,7 +1298,9 @@
         "municipality": "ARRAIOLOS",
         "yearOperational": 1965,
         "damType": "Terra",
-        "capacity": 10.5
+        "capacity": 10.5,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Divor1_0.jpg"
       }
     },
     {
@@ -1195,7 +1319,9 @@
         "municipality": "SERPA",
         "yearOperational": 1998,
         "damType": "Terra zonada",
-        "capacity": 15.6
+        "capacity": 15.6,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Enxoe_0.jpg"
       }
     },
     {
@@ -1214,7 +1340,9 @@
         "municipality": "FUNDÃO",
         "yearOperational": 1992,
         "damType": "Terra",
-        "capacity": 2.4
+        "capacity": 2.4,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1233,7 +1361,9 @@
         "municipality": "ALFÂNDEGA DA FÉ",
         "yearOperational": 1970,
         "damType": "Terra homogénea",
-        "capacity": 1.4
+        "capacity": 1.4,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1252,7 +1382,9 @@
         "municipality": "VISEU",
         "yearOperational": 1984,
         "damType": "Arco Abóboda",
-        "capacity": 44.1
+        "capacity": 44.1,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Fagilde1_0.jpg"
       }
     },
     {
@@ -1271,7 +1403,9 @@
         "municipality": "CARRAZEDA DE ANSIÃES",
         "yearOperational": 1988,
         "damType": "Terra",
-        "capacity": 2.9
+        "capacity": 2.9,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/FonteLonga_2000Jul_0.jpg"
       }
     },
     {
@@ -1290,7 +1424,9 @@
         "municipality": "SANTIAGO DO CACÉM",
         "yearOperational": 1979,
         "damType": "Terra zonada",
-        "capacity": 11.5
+        "capacity": 11.5,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/FonteSerne1_0.jpg"
       }
     },
     {
@@ -1309,7 +1445,9 @@
         "municipality": "NISA",
         "yearOperational": 1973,
         "damType": "Gravidade de betão",
-        "capacity": 806.2
+        "capacity": 806.2,
+        "mwCapacity": 130,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Fratel_0.jpg"
       }
     },
     {
@@ -1328,7 +1466,9 @@
         "municipality": "RESENDE",
         "yearOperational": 1955,
         "damType": "Gravidade de betão",
-        "capacity": 17.6
+        "capacity": 17.6,
+        "mwCapacity": 4.6,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Freigil_0.jpg"
       }
     },
     {
@@ -1347,7 +1487,9 @@
         "municipality": "MONTEMOR-O-NOVO",
         "yearOperational": 1995,
         "damType": "Terra zonada",
-        "capacity": 14
+        "capacity": 14,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/freixei%20%281%29_0.jpeg"
       }
     },
     {
@@ -1366,7 +1508,9 @@
         "municipality": "ARGANIL",
         "yearOperational": 1985,
         "damType": "Arco",
-        "capacity": 36.5
+        "capacity": 36.5,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Imagem%20005_0.jpg"
       }
     },
     {
@@ -1385,7 +1529,9 @@
         "municipality": "SILVES",
         "yearOperational": 1993,
         "damType": "Abóboda",
-        "capacity": 41.7
+        "capacity": 41.7,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Funcho4.jpg"
       }
     },
     {
@@ -1404,7 +1550,9 @@
         "municipality": "MORA",
         "yearOperational": 1959,
         "damType": "Terra homogénea",
-        "capacity": 19.3
+        "capacity": 19.3,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Furadouro1_0.jpg"
       }
     },
     {
@@ -1423,7 +1571,9 @@
         "municipality": "CRATO",
         "yearOperational": 1980,
         "damType": "Terra",
-        "capacity": 14.5
+        "capacity": 14.5,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1442,7 +1592,9 @@
         "municipality": "MORA",
         "yearOperational": 1960,
         "damType": "Gravidade de betão",
-        "capacity": 67.3
+        "capacity": 67.3,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Gameiro1_0.jpg"
       }
     },
     {
@@ -1461,7 +1613,9 @@
         "municipality": "GUIMARÃES",
         "yearOperational": 1941,
         "damType": null,
-        "capacity": 16.6
+        "capacity": 16.6,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1480,7 +1634,9 @@
         "municipality": "BRAGANÇA",
         "yearOperational": 1993,
         "damType": "Terra homogénea",
-        "capacity": 3.8
+        "capacity": 3.8,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Gostei_0.jpg"
       }
     },
     {
@@ -1499,7 +1655,9 @@
         "municipality": "BRAGANÇA",
         "yearOperational": 1995,
         "damType": "Gravidade de betão",
-        "capacity": 5.8
+        "capacity": 5.8,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1518,7 +1676,9 @@
         "municipality": "BEJA",
         "yearOperational": 1965,
         "damType": "Terra",
-        "capacity": 11.1
+        "capacity": 11.1,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Grous_0.jpg"
       }
     },
     {
@@ -1537,7 +1697,9 @@
         "municipality": "VIEIRA DO MINHO",
         "yearOperational": 1938,
         "damType": "Gravidade de betão",
-        "capacity": 17.1
+        "capacity": 17.1,
+        "mwCapacity": 4.6,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Guilhofrei_0.jpg"
       }
     },
     {
@@ -1556,7 +1718,9 @@
         "municipality": "SERPA",
         "yearOperational": 1954,
         "damType": "Terra",
-        "capacity": 6.7
+        "capacity": 6.7,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1575,7 +1739,9 @@
         "municipality": "SERPA",
         "yearOperational": 1955,
         "damType": "Terra",
-        "capacity": 4.7
+        "capacity": 4.7,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1594,7 +1760,9 @@
         "municipality": "IDANHA-A-NOVA",
         "yearOperational": 1947,
         "damType": "Gravidade de betão",
-        "capacity": 43
+        "capacity": 43,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Idanha_0.jpg"
       }
     },
     {
@@ -1613,7 +1781,9 @@
         "municipality": "FUNDÃO",
         "yearOperational": 1995,
         "damType": null,
-        "capacity": 105.6
+        "capacity": 105.6,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1632,7 +1802,9 @@
         "municipality": "SEIA",
         "yearOperational": 1966,
         "damType": "Gravidade de betão",
-        "capacity": 4.5
+        "capacity": 4.5,
+        "mwCapacity": 13.2,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/LagoaComprida_0.jpg"
       }
     },
     {
@@ -1651,7 +1823,9 @@
         "municipality": "SEIA",
         "yearOperational": 1993,
         "damType": "Enrocamento com cortina a montante",
-        "capacity": 3.6
+        "capacity": 3.6,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Lagoacho_0.jpg"
       }
     },
     {
@@ -1670,7 +1844,9 @@
         "municipality": "ALANDROAL",
         "yearOperational": 1982,
         "damType": "Terra zonada",
-        "capacity": 34.1
+        "capacity": 34.1,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Lucefecit_0.jpg"
       }
     },
     {
@@ -1689,7 +1865,9 @@
         "municipality": "SALVATERRA DE MAGOS",
         "yearOperational": 1938,
         "damType": "Terra homogénea",
-        "capacity": 26.9
+        "capacity": 26.9,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Magos2.jpg"
       }
     },
     {
@@ -1708,7 +1886,9 @@
         "municipality": "AVIS",
         "yearOperational": 1957,
         "damType": "Terra zonada",
-        "capacity": 95
+        "capacity": 95,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Maranhao_0.jpg"
       }
     },
     {
@@ -1727,7 +1907,9 @@
         "municipality": "PENAMACOR",
         "yearOperational": 1985,
         "damType": "Terra zonada",
-        "capacity": 17.6
+        "capacity": 17.6,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Meimoa_0.jpg"
       }
     },
     {
@@ -1746,7 +1928,9 @@
         "municipality": "MONTEMOR-O-NOVO",
         "yearOperational": 2003,
         "damType": "Terra homogénea",
-        "capacity": 15.3
+        "capacity": 15.3,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Minutos_0.jpg"
       }
     },
     {
@@ -1765,7 +1949,9 @@
         "municipality": "MIRANDA DO DOURO",
         "yearOperational": 1961,
         "damType": "Contrafortes",
-        "capacity": 549.3
+        "capacity": 549.3,
+        "mwCapacity": 390,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Miranda_0.jpg"
       }
     },
     {
@@ -1784,7 +1970,9 @@
         "municipality": "PONTE DE SOR",
         "yearOperational": 1958,
         "damType": "Terra zonada",
-        "capacity": 86
+        "capacity": 86,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Montargil_0.jpg"
       }
     },
     {
@@ -1803,7 +1991,9 @@
         "municipality": "OURIQUE",
         "yearOperational": 1991,
         "damType": "Terra",
-        "capacity": 4.2
+        "capacity": 4.2,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1822,7 +2012,9 @@
         "municipality": "OURIQUE",
         "yearOperational": 1991,
         "damType": "Terra",
-        "capacity": 8
+        "capacity": 8,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1841,7 +2033,9 @@
         "municipality": "ÉVORA",
         "yearOperational": 1982,
         "damType": "Gravidade de betão",
-        "capacity": 37
+        "capacity": 37,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/MonteNovo2_0.jpg"
       }
     },
     {
@@ -1860,7 +2054,9 @@
         "municipality": "GÓIS",
         "yearOperational": 1950,
         "damType": null,
-        "capacity": 37.3
+        "capacity": 37.3,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1879,7 +2075,9 @@
         "municipality": "OURIQUE",
         "yearOperational": 1972,
         "damType": "Terra zonada",
-        "capacity": 25.1
+        "capacity": 25.1,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/MontedaRocha1.jpg"
       }
     },
     {
@@ -1898,7 +2096,9 @@
         "municipality": "BRAGANÇA",
         "yearOperational": 1995,
         "damType": "Gravidade de betão",
-        "capacity": 21
+        "capacity": 21,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1917,7 +2117,9 @@
         "municipality": "SINES",
         "yearOperational": 1980,
         "damType": "Terra zonada",
-        "capacity": 8.2
+        "capacity": 8.2,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Morgavel_0.jpg"
       }
     },
     {
@@ -1936,7 +2138,9 @@
         "municipality": "MOURÃO",
         "yearOperational": 1955,
         "damType": null,
-        "capacity": 8.4
+        "capacity": 8.4,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1955,7 +2159,9 @@
         "municipality": "ABRANTES",
         "yearOperational": 1976,
         "damType": "Terra",
-        "capacity": 0.2
+        "capacity": 0.2,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -1974,7 +2180,9 @@
         "municipality": "CASTRO MARIM",
         "yearOperational": 1997,
         "damType": "Enrocamento com cortina a montante",
-        "capacity": 79.2
+        "capacity": 79.2,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Odeleite_0.jpg"
       }
     },
     {
@@ -1993,7 +2201,9 @@
         "municipality": "MONCHIQUE",
         "yearOperational": 2009,
         "damType": "Terra zonada",
-        "capacity": 0
+        "capacity": 0,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Odelouca_foto1_0.jpg"
       }
     },
     {
@@ -2012,7 +2222,9 @@
         "municipality": "FERREIRA DO ALENTEJO",
         "yearOperational": 1972,
         "damType": "Abóbodas múltiplas",
-        "capacity": 33.2
+        "capacity": 33.2,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Odivelas1_0.jpg"
       }
     },
     {
@@ -2031,7 +2243,9 @@
         "municipality": "AMARANTE",
         "yearOperational": 1949,
         "damType": "Gravidade de betão",
-        "capacity": 36.5
+        "capacity": 36.5,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2050,7 +2264,9 @@
         "municipality": "VALE DE CAMBRA",
         "yearOperational": 1965,
         "damType": null,
-        "capacity": 10.8
+        "capacity": 10.8,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2069,7 +2285,9 @@
         "municipality": "TORRE DE MONCORVO",
         "yearOperational": 1992,
         "damType": "Terra",
-        "capacity": 2.6
+        "capacity": 2.6,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2088,7 +2306,9 @@
         "municipality": "MONTALEGRE",
         "yearOperational": 1956,
         "damType": "Enrocamento com cortina a montante",
-        "capacity": 17.4
+        "capacity": 17.4,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Paradela.JPG"
       }
     },
     {
@@ -2107,7 +2327,9 @@
         "municipality": "ALPIARÇA",
         "yearOperational": 1984,
         "damType": "Terra",
-        "capacity": 5.3
+        "capacity": 5.3,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2126,7 +2348,9 @@
         "municipality": "VILA FLOR",
         "yearOperational": 1973,
         "damType": "Terra zonada",
-        "capacity": 2.2
+        "capacity": 2.2,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/20211019_142359.jpg"
       }
     },
     {
@@ -2145,7 +2369,9 @@
         "municipality": "IDANHA-A-NOVA",
         "yearOperational": 1978,
         "damType": "Gravidade de betão",
-        "capacity": 6.1
+        "capacity": 6.1,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Penha%20Garcia%2002%20Dez%202.jpg"
       }
     },
     {
@@ -2164,7 +2390,9 @@
         "municipality": "ÉVORA",
         "yearOperational": 1953,
         "damType": null,
-        "capacity": 22.9
+        "capacity": 22.9,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2183,7 +2411,9 @@
         "municipality": "BARCELOS",
         "yearOperational": 1951,
         "damType": "Alvenaria",
-        "capacity": 48
+        "capacity": 48,
+        "mwCapacity": 4.8,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Penide_0.jpg"
       }
     },
     {
@@ -2202,7 +2432,9 @@
         "municipality": "MIRANDA DO DOURO",
         "yearOperational": 1958,
         "damType": "Arco",
-        "capacity": 40.2
+        "capacity": 40.2,
+        "mwCapacity": 180,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/IMG_20230601_095645.jpg"
       }
     },
     {
@@ -2221,7 +2453,9 @@
         "municipality": "CASTELO BRANCO",
         "yearOperational": 1968,
         "damType": "Terra homogénea",
-        "capacity": 7.7
+        "capacity": 7.7,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/piscoddd.jpg"
       }
     },
     {
@@ -2240,7 +2474,9 @@
         "municipality": "TORRE DE MONCORVO",
         "yearOperational": 1982,
         "damType": "Gravidade de betão",
-        "capacity": 349.2
+        "capacity": 349.2,
+        "mwCapacity": 186,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/IMG_8487.JPG"
       }
     },
     {
@@ -2259,7 +2495,9 @@
         "municipality": "NISA",
         "yearOperational": 1932,
         "damType": "Gravidade de betão",
-        "capacity": 7.8
+        "capacity": 7.8,
+        "mwCapacity": 1.5,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/20211027_121649.jpg"
       }
     },
     {
@@ -2278,7 +2516,9 @@
         "municipality": "MAÇÃO",
         "yearOperational": 1950,
         "damType": "Contrafortes",
-        "capacity": 45.8
+        "capacity": 45.8,
+        "mwCapacity": 40,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Pracana.JPG"
       }
     },
     {
@@ -2297,7 +2537,9 @@
         "municipality": "ALCÁCER DO SAL",
         "yearOperational": 1949,
         "damType": "Enrocamento com cortina a montante",
-        "capacity": 63.1
+        "capacity": 63.1,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Pego%20do%20Altar_descarregador.jpg"
       }
     },
     {
@@ -2316,7 +2558,9 @@
         "municipality": "CASTELO DE VIDE",
         "yearOperational": 1928,
         "damType": "Arco Gravidade",
-        "capacity": 30.9
+        "capacity": 30.9,
+        "mwCapacity": 0.74,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/20220621_120354.jpg"
       }
     },
     {
@@ -2335,7 +2579,9 @@
         "municipality": "FAFE",
         "yearOperational": 1993,
         "damType": "Gravidade de betão",
-        "capacity": 10
+        "capacity": 10,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/20220706_145600.jpg"
       }
     },
     {
@@ -2354,7 +2600,9 @@
         "municipality": "PENACOVA",
         "yearOperational": 1981,
         "damType": "Gravidade de betão",
-        "capacity": 38.9
+        "capacity": 38.9,
+        "mwCapacity": 20,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Raiva.JPG"
       }
     },
     {
@@ -2373,7 +2621,9 @@
         "municipality": "MÊDA",
         "yearOperational": 1986,
         "damType": "Gravidade de betão",
-        "capacity": 17.6
+        "capacity": 17.6,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/20240131_153205.jpg"
       }
     },
     {
@@ -2392,7 +2642,9 @@
         "municipality": "VINHAIS",
         "yearOperational": 2004,
         "damType": "Arco Gravidade",
-        "capacity": 60
+        "capacity": 60,
+        "mwCapacity": 8.75,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/barr4.jpg"
       }
     },
     {
@@ -2411,7 +2663,9 @@
         "municipality": "CASCAIS",
         "yearOperational": 1969,
         "damType": "Mistas de betão e aterro",
-        "capacity": 3
+        "capacity": 3,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/riodamula1_0.JPG"
       }
     },
     {
@@ -2430,7 +2684,9 @@
         "municipality": "ALJUSTREL",
         "yearOperational": 1967,
         "damType": "Contrafortes",
-        "capacity": 33.3
+        "capacity": 33.3,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/132_3270.JPG"
       }
     },
     {
@@ -2449,7 +2705,9 @@
         "municipality": "VILA VERDE",
         "yearOperational": 1928,
         "damType": null,
-        "capacity": 27.5
+        "capacity": 27.5,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2468,7 +2726,9 @@
         "municipality": "TONDELA",
         "yearOperational": 1973,
         "damType": null,
-        "capacity": 11.5
+        "capacity": 11.5,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2487,7 +2747,9 @@
         "municipality": "PESO DA RÉGUA",
         "yearOperational": 1973,
         "damType": "Gravidade de betão",
-        "capacity": 63.1
+        "capacity": 63.1,
+        "mwCapacity": 156,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/IMG_8566.JPG"
       }
     },
     {
@@ -2506,7 +2768,9 @@
         "municipality": "PENICHE",
         "yearOperational": 1993,
         "damType": "Enrocamento com núcleo",
-        "capacity": 11.8
+        "capacity": 11.8,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/SDomingos_0.JPG"
       }
     },
     {
@@ -2525,7 +2789,9 @@
         "municipality": "SABUGAL",
         "yearOperational": 2000,
         "damType": "Terra",
-        "capacity": 33
+        "capacity": 33,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Sabugal1_0.jpg"
       }
     },
     {
@@ -2544,7 +2810,9 @@
         "municipality": "VIEIRA DO MINHO",
         "yearOperational": 1953,
         "damType": "Arco Abóboda",
-        "capacity": 23.6
+        "capacity": 23.6,
+        "mwCapacity": 42,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/20240221_142607.jpg"
       }
     },
     {
@@ -2563,7 +2831,9 @@
         "municipality": "ALFÂNDEGA DA FÉ",
         "yearOperational": 1977,
         "damType": "Terra homogénea",
-        "capacity": 5.4
+        "capacity": 5.4,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Salgueiro.jpg"
       }
     },
     {
@@ -2582,7 +2852,9 @@
         "municipality": "ODEMIRA",
         "yearOperational": 1968,
         "damType": "Terra zonada",
-        "capacity": 64.1
+        "capacity": 64.1,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/santa%20clara_mira3.jpg"
       }
     },
     {
@@ -2601,7 +2873,9 @@
         "municipality": "FIGUEIRA DE CASTELO RODRIGO",
         "yearOperational": 1981,
         "damType": "Terra homogénea",
-        "capacity": 32.2
+        "capacity": 32.2,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/SantaMAguiar_0.jpg"
       }
     },
     {
@@ -2620,7 +2894,9 @@
         "municipality": "BRAGANÇA",
         "yearOperational": 1989,
         "damType": "Gravidade de betão",
-        "capacity": 5.9
+        "capacity": 5.9,
+        "mwCapacity": 3.4,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/IMG_0103_0.JPG"
       }
     },
     {
@@ -2639,7 +2915,9 @@
         "municipality": "VILA REAL",
         "yearOperational": 1997,
         "damType": "Gravidade de betão",
-        "capacity": 15.3
+        "capacity": 15.3,
+        "mwCapacity": 10,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Sordo%201_0.jpg"
       }
     },
     {
@@ -2658,7 +2936,9 @@
         "municipality": "PINHEL",
         "yearOperational": 1993,
         "damType": "Gravidade de betão",
-        "capacity": 28.4
+        "capacity": 28.4,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2677,7 +2957,9 @@
         "municipality": "PAMPILHOSA DA SERRA",
         "yearOperational": 1942,
         "damType": "Arco",
-        "capacity": 14.7
+        "capacity": 14.7,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2696,7 +2978,9 @@
         "municipality": "CASTELO BRANCO",
         "yearOperational": 1991,
         "damType": "Terra homogénea",
-        "capacity": 16.7
+        "capacity": 16.7,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2715,7 +2999,9 @@
         "municipality": "FAFE",
         "yearOperational": 1972,
         "damType": null,
-        "capacity": 13.8
+        "capacity": 13.8,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2734,7 +3020,9 @@
         "municipality": "MÉRTOLA",
         "yearOperational": 1882,
         "damType": "Mistas de betão e aterro",
-        "capacity": 10.4
+        "capacity": 10.4,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2753,7 +3041,9 @@
         "municipality": "MÉRTOLA",
         "yearOperational": 1884,
         "damType": "Terra",
-        "capacity": 3
+        "capacity": 3,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2772,7 +3062,9 @@
         "municipality": "MÊDA",
         "yearOperational": 1995,
         "damType": "Terra zonada",
-        "capacity": 8.8
+        "capacity": 8.8,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/e.jpg"
       }
     },
     {
@@ -2791,7 +3083,9 @@
         "municipality": "VILA REAL",
         "yearOperational": 1993,
         "damType": "Gravidade de betão",
-        "capacity": 17.2
+        "capacity": 17.2,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2810,7 +3104,9 @@
         "municipality": "MARCO DE CANAVESES",
         "yearOperational": 1988,
         "damType": "Gravidade de betão",
-        "capacity": 53.6
+        "capacity": 53.6,
+        "mwCapacity": 146,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Torrao111.jpg"
       }
     },
     {
@@ -2829,7 +3125,9 @@
         "municipality": "IDANHA-A-NOVA",
         "yearOperational": 1979,
         "damType": "Terra zonada",
-        "capacity": 10.2
+        "capacity": 10.2,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/toulica.jpg"
       }
     },
     {
@@ -2848,7 +3146,9 @@
         "municipality": "PONTE DA BARCA",
         "yearOperational": 1993,
         "damType": "Gravidade de betão aligeirada",
-        "capacity": 22.8
+        "capacity": 22.8,
+        "mwCapacity": 22,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Touvedo_0.JPG"
       }
     },
     {
@@ -2867,7 +3167,9 @@
         "municipality": "TORRE DE MONCORVO",
         "yearOperational": 1993,
         "damType": "Terra",
-        "capacity": 2.3
+        "capacity": 2.3,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2886,7 +3188,9 @@
         "municipality": "MÉRTOLA",
         "yearOperational": 1955,
         "damType": "Terra",
-        "capacity": 1.5
+        "capacity": 1.5,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2905,7 +3209,9 @@
         "municipality": "VENDAS NOVAS",
         "yearOperational": 1939,
         "damType": "Terra homogénea",
-        "capacity": 20.7
+        "capacity": 20.7,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -2924,7 +3230,9 @@
         "municipality": "ALCÁCER DO SAL",
         "yearOperational": 1949,
         "damType": "Enrocamento",
-        "capacity": 27.7
+        "capacity": 27.7,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/ValedoGaio1.jpg"
       }
     },
     {
@@ -2943,7 +3251,9 @@
         "municipality": "GOUVEIA",
         "yearOperational": 1956,
         "damType": "Gravidade de betão",
-        "capacity": 3.9
+        "capacity": 3.9,
+        "mwCapacity": 10,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/ValedoRossim_0.JPG"
       }
     },
     {
@@ -2962,7 +3272,9 @@
         "municipality": "SÃO JOÃO DA PESQUEIRA",
         "yearOperational": 1975,
         "damType": "Gravidade de betão",
-        "capacity": 66.7
+        "capacity": 66.7,
+        "mwCapacity": 216,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/douro%201441.jpg"
       }
     },
     {
@@ -2981,7 +3293,9 @@
         "municipality": "LAMEGO",
         "yearOperational": 1934,
         "damType": "Arco Abóboda",
-        "capacity": 33.7
+        "capacity": 33.7,
+        "mwCapacity": 24.7,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/IMG_20240404_103020.jpg"
       }
     },
     {
@@ -3000,7 +3314,9 @@
         "municipality": "VIEIRA DO MINHO",
         "yearOperational": 1951,
         "damType": "Gravidade de betão",
-        "capacity": 21.8
+        "capacity": 21.8,
+        "mwCapacity": 144,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/IMG_6402.JPEG"
       }
     },
     {
@@ -3019,7 +3335,9 @@
         "municipality": "ALCOCHETE",
         "yearOperational": 1957,
         "damType": "Terra homogénea",
-        "capacity": 29.3
+        "capacity": 29.3,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Captura%20de%20ecr%C3%A3%202024-05-28%20124656_0.png"
       }
     },
     {
@@ -3038,7 +3356,9 @@
         "municipality": "REDONDO",
         "yearOperational": 1981,
         "damType": "Terra zonada",
-        "capacity": 18.9
+        "capacity": 18.9,
+        "mwCapacity": null,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/Vigia_0.jpg"
       }
     },
     {
@@ -3057,7 +3377,9 @@
         "municipality": "SERNANCELHE",
         "yearOperational": 1965,
         "damType": "Enrocamento com cortina a montante",
-        "capacity": 39.6
+        "capacity": 39.6,
+        "mwCapacity": null,
+        "imageUrl": null
       }
     },
     {
@@ -3076,7 +3398,9 @@
         "municipality": "TERRAS DE BOURO",
         "yearOperational": 1972,
         "damType": "Abóboda",
-        "capacity": 17.8
+        "capacity": 17.8,
+        "mwCapacity": 125,
+        "imageUrl": "https://cnpgb.apambiente.pt/sites/default/files/galerias/imagens/VilarinhodasFurnas_0.jpg"
       }
     }
   ]
