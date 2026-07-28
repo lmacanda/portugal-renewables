@@ -1,6 +1,8 @@
 import DamsMap from "@/app/components/DamsMap";
 import GenerationMixChart from "@/app/components/GenerationMixChart";
 import DamsList from "@/app/components/Damslist";
+import RenewableShareStat from "@/app/components/renawableShareStat"; 
+import GenerationTreemap from "@/app/components/GenerationTreemap";
 
 export default function Home() {
   return (
@@ -12,7 +14,13 @@ export default function Home() {
           overflowY: "auto",
           borderRight: "1px solid rgba(255,255,255,0.1)",
         }}
+        
       >
+        <div style={{ background: "#0a0e17", padding: "1rem 1.5rem", borderTop: "1px solid rgba(255,255,255,0.1)" }}>
+  <RenewableShareStat />
+
+  <GenerationTreemap />
+</div>
         <DamsList />
       </div>
 

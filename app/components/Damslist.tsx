@@ -6,6 +6,7 @@ import Image from "next/image";
 
 export default function DamsList() {
   const [dams, setDams] = useState<DamFeature[]>([]);
+  const [enlargedImage, setEnlargedImage] = useState<string | null>(null);
 
   useEffect(() => {
     fetch("/data/dams.geojson")
@@ -16,7 +17,7 @@ export default function DamsList() {
         );
         
         setDams(sorted);
-        console.log(geojson.features.map((f: DamFeature) => f.properties.imageUrl));
+        
       });
       
   }, []);
@@ -50,6 +51,28 @@ export default function DamsList() {
         <span style={{ flex: 1, textAlign: "right" }}>Capacity</span>
       </div>
 
+      {enlargedImage && (
+  <div
+    onClick={() => setEnlargedImage(null)}
+    style={{
+      position: "fixed",
+      inset: 0,
+      background: "rgba(0,0,0,0.85)",
+      display: "flex",
+      alignItems: "center",
+      justifyContent: "center",
+      zIndex: 1000,
+      cursor: "pointer",
+    }}
+  >
+    <img
+      src={enlargedImage}
+      alt=""
+      style={{ maxWidth: "90vw", maxHeight: "90vh", borderRadius: "8px" }}
+    />
+  </div>
+)}
+
 {dams.map((dam) => (
       <div
         key={dam.properties.name}
@@ -69,19 +92,21 @@ export default function DamsList() {
         }}
       >
         {dam.properties.imageUrl && (
-          <Image
+  <Image
     src={dam.properties.imageUrl}
     alt={dam.properties.name}
     width={36}
     height={36}
+   onClick={() => setEnlargedImage(dam.properties.imageUrl ?? null)}
     style={{
       borderRadius: "4px",
       objectFit: "cover",
       marginRight: "10px",
       flexShrink: 0,
+      cursor: "pointer",
     }}
-          />
-        )}
+  />
+)}
 
         <span style={{ flex: 2, color: "rgb(0 35 134)" }}>{dam.properties.name}</span>
         <span style={{ flex: 1, color: "black", marginTop: "2px", fontWeight: 700, fontSize: "11px" }}>
@@ -91,6 +116,7 @@ export default function DamsList() {
           {dam.properties.capacity} hm³
         </span>
       </div>
+      
     ))}
     </div>
   );

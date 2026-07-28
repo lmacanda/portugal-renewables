@@ -220,7 +220,7 @@ Result: left sidebar lists all dams (sorted, hover-highlighted), map shows capac
       the map into a genuine history-of-the-grid narrative. Good
       candidate for the storytelling layer, optional/toggleable rather
       than the default view
-- [ ] Dam marker photos (Wikimedia Commons, where available — most of
+- [X] Dam marker photos (Wikimedia Commons, where available — most of
       the 162 won't have one)
 - [ ] MW generation capacity (vs. current reservoir-volume capacity),
       if a usable source is found
