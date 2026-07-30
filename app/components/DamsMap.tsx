@@ -8,10 +8,16 @@ import Button from "@/app/components/Button";
 
 mapboxgl.accessToken = process.env.NEXT_PUBLIC_MAPBOX_TOKEN;
 
-export default function DamsMap() {
+interface DamsMapProps {
+  selectedDamName: string | null;
+  onClearSelection?: () => void;
+}
+
+export default function DamsMap({ selectedDamName, onClearSelection }: DamsMapProps) {
   const mapContainer = useRef<HTMLDivElement | null>(null);
   const map = useRef<mapboxgl.Map | null>(null);
   const markersRef = useRef<mapboxgl.Marker[]>([]);
+  const markersByName = useRef<Map<string, mapboxgl.Marker>>(new Map());
   const damsRef = useRef<DamFeature[]>([]);
   const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
@@ -22,6 +28,7 @@ export default function DamsMap() {
   const clearMarkers = useCallback(() => {
     markersRef.current.forEach((m) => m.remove());
     markersRef.current = [];
+    markersByName.current.clear();
   }, []);
 
   const addMarker = useCallback(
@@ -72,17 +79,21 @@ export default function DamsMap() {
       el.addEventListener("mouseleave", () => marker.togglePopup());
 
       markersRef.current.push(marker);
+      markersByName.current.set(name, marker);
     },
     [sizeBy]
   );
 
   const showAllDams = useCallback(() => {
-    if (intervalRef.current) clearInterval(intervalRef.current);
-    setIsPlaying(false);
-    setCurrentYear(null);
-    clearMarkers();
-    damsRef.current.forEach(addMarker);
-  }, [clearMarkers, addMarker]);
+  if (intervalRef.current) clearInterval(intervalRef.current);
+  setIsPlaying(false);
+  setCurrentYear(null);
+  clearMarkers();
+  damsRef.current.forEach(addMarker);
+
+  map.current?.flyTo({ center: [-8.2, 39.6], zoom: 6, essential: true });
+  onClearSelection?.();
+}, [clearMarkers, addMarker, onClearSelection]);
 
   const playByYear = useCallback(() => {
     if (intervalRef.current) clearInterval(intervalRef.current);
@@ -141,6 +152,25 @@ export default function DamsMap() {
     if (!map.current || damsRef.current.length === 0) return;
     showAllDams();
   }, [sizeBy, showAllDams]);
+
+  // Fly to and highlight the selected dam whenever selection changes
+  useEffect(() => {
+    if (!selectedDamName || !map.current) return;
+
+    const feature = damsRef.current.find(
+      (d) => d.properties.name === selectedDamName
+    );
+    if (!feature) return;
+
+    map.current.flyTo({
+      center: feature.geometry.coordinates,
+      zoom: 10,
+      essential: true,
+    });
+
+    const marker = markersByName.current.get(selectedDamName);
+    marker?.togglePopup();
+  }, [selectedDamName]);
 
   return (
     <div style={{ display: "flex", flexDirection: "column", width: "100%", height: "100%" }}>
