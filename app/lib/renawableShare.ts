@@ -30,7 +30,8 @@ const OTHER_RENEWABLE_SOURCES = ["Solar", "Wind", "Biomass", "Wave"];
 const NON_RENEWABLE_SOURCES = ["Natural Gas", "Coal", "Other Thermal"];
 
 function sumSeries(data: number[]): number {
-  return data.reduce((total, value) => total + value, 0);
+  const HOURS_PER_INTERVAL = 0.25; // each reading covers 15 minutes
+  return data.reduce((total, value) => total + value * HOURS_PER_INTERVAL, 0);
 }
 
 export function computeRenewableShare(raw: RenResponse) {

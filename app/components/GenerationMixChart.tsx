@@ -46,20 +46,22 @@ export default function GenerationMixChart() {
       <div style={{ display: "flex", alignItems: "center", gap: "12px", marginBottom: "8px" }}>
         <label style={{ fontSize: "12px", color: "#898781" }}>Showing</label>
         <input
-          type="date"
-          value={date}
-          max={yesterdayDateString()}
-          onChange={(e) => setDate(e.target.value)}
-          style={{
-            background: "#161b26",
-            border: "1px solid rgba(255,255,255,0.1)",
-            borderRadius: "6px",
-            color: "#eef2f6",
-            padding: "4px 8px",
-            fontFamily: "inherit",
-            fontSize: "13px",
-          }}
-        />
+  type="date"
+  value={date}
+  max={yesterdayDateString()}
+  onChange={(e) => setDate(e.target.value)}
+  style={{
+    padding: "10px 16px",
+    borderRadius: "999px",
+    border: "2px solid #000",
+    background: "#fff",
+    color: "#000",
+    fontWeight: 700,
+    fontSize: "13px",
+    boxShadow: "4px 4px 0px #000",
+    cursor: "pointer",
+  }}
+/>
         <Button onClick={() => setDate(yesterdayDateString())}>Yesterday</Button>
         <Button onClick={() => setDate(shiftDate(date, -7))}>−7 days</Button>
       </div>

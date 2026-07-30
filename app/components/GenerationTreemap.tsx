@@ -24,12 +24,15 @@ export default function GenerationTreemap() {
       .then((response) => response.json())
       .then((rawData) => {
         setData(computeDailyTotals(rawData));
+        
       });
   }, []);
 
   return (
     <div style={{ width: "100%", height: 160 }}>
+     
       <ResponsiveContainer>
+        
         <Treemap
           data={data}
           dataKey="size"
@@ -59,7 +62,12 @@ export default function GenerationTreemap() {
             </g>
           )}
         >
-          <Tooltip />
+         <Tooltip
+  formatter={(value) => {
+    const num = typeof value === "number" ? value : 0;
+    return `${Math.round(num).toLocaleString()} MWh`;
+  }}
+/>
         </Treemap>
       </ResponsiveContainer>
     </div>

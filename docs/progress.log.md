@@ -212,10 +212,10 @@ Result: left sidebar lists all dams (sorted, hover-highlighted), map shows capac
          Hydro band in the chart at that moment (or the reverse) — same
          underlying "linked views" mechanism as the list↔map hover idea
          below; worth designing both together rather than separately
-- [ ] **Hover a row in the list → highlight the matching dam on the
+- [] **Hover a row in the list → highlight the matching dam on the
       map** (and/or the reverse) — needs shared state lifted above both
       components, not yet designed
-- [ ] **"Reveal dams by year" button** — animate dams appearing on the
+- [X] **"Reveal dams by year" button** — animate dams appearing on the
       map ordered by `yearOperational` instead of all-at-once; turns
       the map into a genuine history-of-the-grid narrative. Good
       candidate for the storytelling layer, optional/toggleable rather
