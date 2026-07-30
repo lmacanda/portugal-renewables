@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { translateDamType } from "@/app/lib/damTypeTranslations";
 import { DamFeature } from "@/types";
 import Image from "next/image";
 
@@ -134,7 +135,7 @@ export default function DamsList({ selectedDamName, onSelectDam }: DamsListProps
 
             <span style={{ color: "rgb(0 35 134)" }}>{dam.properties.name}</span>
             <span style={{ color: "black", fontWeight: 700, fontSize: "11px" }}>
-              {dam.properties.damType}
+              {translateDamType(dam.properties.damType)}
             </span>
             <span style={{ textAlign: "right", color: "#898781", fontSize: "11px" }}>
               {dam.properties.capacity} hm³

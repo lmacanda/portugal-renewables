@@ -25,9 +25,7 @@ export default function Home() {
         }}
       >
         <div style={{ background: "#0a0e17", padding: "1rem 1.5rem", borderTop: "1px solid rgba(255,255,255,0.1)" }}>
-          <p style={{ fontSize: "12px", color: "#898781", textAlign: "center", margin: "0 0 8px" }}>
-            How Portugal&apos;s electricity was generated yesterday, by source (MWh)
-          </p>
+          
           <RenewableShareStat />
           <GenerationTreemap />
         </div>
